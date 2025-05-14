@@ -1,0 +1,94 @@
+@prefix ex: <http://example.org/research_paper#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ex:Abstract a rdfs:Class .
+
+ex:Author a rdfs:Class .
+
+ex:Conference a rdfs:Class ;
+    rdfs:subClassOf ex:Publisher .
+
+ex:Edition a rdfs:Class .
+
+ex:Journal a rdfs:Class ;
+    rdfs:subClassOf ex:Publisher .
+
+ex:Paper a rdfs:Class .
+
+ex:Publisher a rdfs:Class .
+
+ex:Review a rdfs:Class .
+
+ex:Topic a rdfs:Class .
+
+ex:Volume a rdfs:Class .
+
+ex:cites a rdf:Property ;
+    rdfs:domain ex:Paper ;
+    rdfs:range ex:Paper .
+
+ex:corresponds a rdf:Property ;
+    rdfs:domain ex:Paper ;
+    rdfs:range ex:Author .
+
+ex:has_abstract a rdf:Property ;
+    rdfs:domain ex:Paper ;
+    rdfs:range xsd:string .
+
+ex:has_city rdfs:domain ex:Edition ;
+    rdfs:range xsd:string .
+
+ex:has_date a rdf:Property ;
+    rdfs:domain ex:Edition ;
+    rdfs:range xsd:string .
+
+ex:has_edition a rdf:Property ;
+    rdfs:domain ex:Conference ;
+    rdfs:range ex:Edition .
+
+ex:has_number a rdf:Property ;
+    rdfs:domain ex:Volume ;
+    rdfs:range xsd:string .
+
+ex:has_review a rdf:Property ;
+    rdfs:domain ex:Paper ;
+    rdfs:range ex:Review .
+
+ex:has_volume a rdf:Property ;
+    rdfs:domain ex:Journal ;
+    rdfs:range ex:Volume .
+
+ex:is_reviewer a rdf:Property ;
+    rdfs:domain ex:Author ;
+    rdfs:range ex:Review .
+
+ex:published_in a rdf:Property ;
+    rdfs:domain ex:Paper ;
+    rdfs:range ex:Publisher .
+
+ex:related_to a rdf:Property ;
+    rdfs:domain ex:Paper ;
+    rdfs:range ex:Topic .
+
+ex:written_by a rdf:Property ;
+    rdfs:domain ex:Paper ;
+    rdfs:range ex:Author .
+
+xsd:has_abstract a rdf:Property ;
+    rdfs:domain xsd:Paper ;
+    rdfs:range xsd:string .
+
+xsd:has_city a rdf:Property ;
+    rdfs:domain xsd:Edition ;
+    rdfs:range xsd:string .
+
+xsd:has_date a rdf:Property ;
+    rdfs:domain xsd:Edition ;
+    rdfs:range xsd:string .
+
+xsd:has_number a rdf:Property ;
+    rdfs:domain xsd:Volume ;
+    rdfs:range xsd:string .
+
