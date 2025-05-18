@@ -1,25 +1,29 @@
-@prefix ex: <http://example.org/research_paper#> .
+@prefix ex: <http://example.org/research_paper/> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-ex:Abstract a rdfs:Class .
-
 ex:Author a rdfs:Class .
 
 ex:Conference a rdfs:Class ;
-    rdfs:subClassOf ex:Publisher .
+    rdfs:subClassOf ex:Publication .
 
 ex:Edition a rdfs:Class .
 
 ex:Journal a rdfs:Class ;
-    rdfs:subClassOf ex:Publisher .
+    rdfs:subClassOf ex:Publication .
+
+ex:Owner a rdfs:Class ;
+    rdfs:subClassOf ex:Author .
 
 ex:Paper a rdfs:Class .
 
-ex:Publisher a rdfs:Class .
+ex:Publication a rdfs:Class .
 
 ex:Review a rdfs:Class .
+
+ex:Reviewer a rdfs:Class ;
+    rdfs:subClassOf ex:Author .
 
 ex:Topic a rdfs:Class .
 
@@ -29,44 +33,49 @@ ex:cites a rdf:Property ;
     rdfs:domain ex:Paper ;
     rdfs:range ex:Paper .
 
-ex:corresponds a rdf:Property ;
+ex:corresponds_to a rdf:Property ;
     rdfs:domain ex:Paper ;
-    rdfs:range ex:Author .
+    rdfs:range ex:Owner .
 
 ex:has_abstract a rdf:Property ;
     rdfs:domain ex:Paper ;
     rdfs:range xsd:string .
 
-ex:has_city rdfs:domain ex:Edition ;
+ex:has_date_edition a rdf:Property ;
+    rdfs:domain ex:Edition ;
     rdfs:range xsd:string .
 
-ex:has_date a rdf:Property ;
-    rdfs:domain ex:Edition ;
+ex:has_date_volume a rdf:Property ;
+    rdfs:domain ex:Volume ;
     rdfs:range xsd:string .
 
 ex:has_edition a rdf:Property ;
     rdfs:domain ex:Conference ;
     rdfs:range ex:Edition .
 
-ex:has_number a rdf:Property ;
-    rdfs:domain ex:Volume ;
+ex:has_location a rdf:Property ;
+    rdfs:domain ex:Edition ;
     rdfs:range xsd:string .
 
 ex:has_review a rdf:Property ;
     rdfs:domain ex:Paper ;
     rdfs:range ex:Review .
 
+ex:has_title a rdf:Property ;
+    rdfs:domain ex:Paper ;
+    rdfs:range xsd:string .
+
 ex:has_volume a rdf:Property ;
     rdfs:domain ex:Journal ;
     rdfs:range ex:Volume .
 
-ex:is_reviewer a rdf:Property ;
-    rdfs:domain ex:Author ;
+ex:note a rdf:Property ;
+    rdfs:domain ex:Reviewer ;
     rdfs:range ex:Review .
 
 ex:published_in a rdf:Property ;
     rdfs:domain ex:Paper ;
-    rdfs:range ex:Publisher .
+    rdfs:range ex:Publication .
 
 ex:related_to a rdf:Property ;
     rdfs:domain ex:Paper ;
@@ -75,20 +84,4 @@ ex:related_to a rdf:Property ;
 ex:written_by a rdf:Property ;
     rdfs:domain ex:Paper ;
     rdfs:range ex:Author .
-
-xsd:has_abstract a rdf:Property ;
-    rdfs:domain xsd:Paper ;
-    rdfs:range xsd:string .
-
-xsd:has_city a rdf:Property ;
-    rdfs:domain xsd:Edition ;
-    rdfs:range xsd:string .
-
-xsd:has_date a rdf:Property ;
-    rdfs:domain xsd:Edition ;
-    rdfs:range xsd:string .
-
-xsd:has_number a rdf:Property ;
-    rdfs:domain xsd:Volume ;
-    rdfs:range xsd:string .
 
