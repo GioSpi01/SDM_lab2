@@ -3,85 +3,166 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-ex:Author a rdfs:Class .
+ex:Author a rdfs:Class ;
+    rdfs:label "Author"@en ;
+    rdfs:subClassOf ex:ResearchEntity .
 
 ex:Conference a rdfs:Class ;
+    rdfs:label "Conference"@en ;
+    rdfs:subClassOf ex:ResearchEntity .
+
+ex:ConferenceChair a rdfs:Class ;
+    rdfs:label "Conference Chair"@en ;
+    rdfs:subClassOf ex:Author .
+
+ex:ConferenceEdition a rdfs:Class ;
+    rdfs:label "Conference Edition"@en ;
     rdfs:subClassOf ex:Publication .
 
-ex:Edition a rdfs:Class .
-
 ex:Journal a rdfs:Class ;
+    rdfs:label "Journal"@en ;
+    rdfs:subClassOf ex:ResearchEntity .
+
+ex:JournalEditor a rdfs:Class ;
+    rdfs:label "Journal Editor"@en ;
+    rdfs:subClassOf ex:Author .
+
+ex:JournalVolume a rdfs:Class ;
+    rdfs:label "Journal Volume"@en ;
     rdfs:subClassOf ex:Publication .
 
 ex:Owner a rdfs:Class ;
+    rdfs:label "Corresponding Author"@en ;
     rdfs:subClassOf ex:Author .
 
-ex:Paper a rdfs:Class .
+ex:Paper a rdfs:Class ;
+    rdfs:label "Paper"@en ;
+    rdfs:subClassOf ex:ResearchEntity .
 
-ex:Publication a rdfs:Class .
+ex:Proceeding a rdfs:Class ;
+    rdfs:label "Conference Proceedings"@en ;
+    rdfs:subClassOf ex:Publication .
 
-ex:Review a rdfs:Class .
+ex:Publication a rdfs:Class ;
+    rdfs:label "Publication Venue"@en ;
+    rdfs:subClassOf ex:ResearchEntity .
+
+ex:ResearchEntity a rdfs:Class ;
+    rdfs:label "ResearchEntity"@en .
+
+ex:Review a rdfs:Class ;
+    rdfs:label "Review"@en .
 
 ex:Reviewer a rdfs:Class ;
+    rdfs:label "Reviewer"@en ;
     rdfs:subClassOf ex:Author .
 
-ex:Topic a rdfs:Class .
-
-ex:Volume a rdfs:Class .
+ex:Topic a rdfs:Class ;
+    rdfs:label "Research Topic"@en ;
+    rdfs:subClassOf ex:ResearchEntity .
 
 ex:cites a rdf:Property ;
+    rdfs:label "cites"@en ;
     rdfs:domain ex:Paper ;
     rdfs:range ex:Paper .
 
-ex:corresponds_to a rdf:Property ;
+ex:corresponds_to_author a rdf:Property ;
+    rdfs:label "corresponds to author"@en ;
     rdfs:domain ex:Paper ;
     rdfs:range ex:Owner .
 
 ex:has_abstract a rdf:Property ;
+    rdfs:label "has abstract"@en ;
     rdfs:domain ex:Paper ;
     rdfs:range xsd:string .
 
-ex:has_date_edition a rdf:Property ;
-    rdfs:domain ex:Edition ;
-    rdfs:range xsd:string .
-
-ex:has_date_volume a rdf:Property ;
-    rdfs:domain ex:Volume ;
-    rdfs:range xsd:string .
-
-ex:has_edition a rdf:Property ;
+ex:has_chair a rdf:Property ;
+    rdfs:label "has chair"@en ;
     rdfs:domain ex:Conference ;
-    rdfs:range ex:Edition .
+    rdfs:range ex:ConferenceChair .
 
-ex:has_location a rdf:Property ;
-    rdfs:domain ex:Edition ;
+ex:has_content a rdf:Property ;
+    rdfs:label "has content"@en ;
+    rdfs:domain ex:Review ;
+    rdfs:range xsd:string .
+
+ex:has_editor a rdf:Property ;
+    rdfs:label "has editor"@en ;
+    rdfs:domain ex:Journal ;
+    rdfs:range ex:JournalEditor .
+
+ex:has_name a rdf:Property ;
+    rdfs:label "has name"@en ;
+    rdfs:domain ex:ResearchEntity ;
+    rdfs:range xsd:string .
+
+ex:has_proceedings_record a rdf:Property ;
+    rdfs:label "has proceedings record"@en ;
+    rdfs:domain ex:ConferenceEdition ;
+    rdfs:range ex:Proceeding .
+
+ex:has_publication_year a rdf:Property ;
+    rdfs:label "has publication year"@en ;
+    rdfs:domain ex:JournalVolume ;
     rdfs:range xsd:string .
 
 ex:has_review a rdf:Property ;
+    rdfs:label "has review"@en ;
     rdfs:domain ex:Paper ;
     rdfs:range ex:Review .
 
 ex:has_title a rdf:Property ;
+    rdfs:label "has title"@en ;
     rdfs:domain ex:Paper ;
     rdfs:range xsd:string .
 
-ex:has_volume a rdf:Property ;
-    rdfs:domain ex:Journal ;
-    rdfs:range ex:Volume .
-
-ex:note a rdf:Property ;
-    rdfs:domain ex:Reviewer ;
-    rdfs:range ex:Review .
-
-ex:published_in a rdf:Property ;
-    rdfs:domain ex:Paper ;
-    rdfs:range ex:Publication .
-
-ex:related_to a rdf:Property ;
+ex:has_topic a rdf:Property ;
+    rdfs:label "has topic"@en ;
     rdfs:domain ex:Paper ;
     rdfs:range ex:Topic .
 
+ex:held_in_city a rdf:Property ;
+    rdfs:label "held in city"@en ;
+    rdfs:domain ex:ConferenceEdition ;
+    rdfs:range xsd:string .
+
+ex:held_in_date a rdf:Property ;
+    rdfs:label "held in date"@en ;
+    rdfs:domain ex:ConferenceEdition ;
+    rdfs:range xsd:string .
+
+ex:is_edition_of a rdf:Property ;
+    rdfs:label "is edition of"@en ;
+    rdfs:domain ex:ConferenceEdition ;
+    rdfs:range ex:Conference .
+
+ex:is_volume_of a rdf:Property ;
+    rdfs:label "is volume of"@en ;
+    rdfs:domain ex:JournalVolume ;
+    rdfs:range ex:Journal .
+
+ex:noted_by_reviewer a rdf:Property ;
+    rdfs:label "noted by reviewer"@en ;
+    rdfs:domain ex:Review ;
+    rdfs:range ex:Reviewer .
+
+ex:presented_in_proceedings a rdf:Property ;
+    rdfs:label "presented in proceedings"@en ;
+    rdfs:domain ex:Paper ;
+    rdfs:range ex:Proceeding .
+
+ex:published_in a rdf:Property ;
+    rdfs:label "published in"@en ;
+    rdfs:domain ex:Paper ;
+    rdfs:range ex:Publication .
+
+ex:review_assigned_by a rdf:Property ;
+    rdfs:label "review assigned by"@en ;
+    rdfs:domain ex:Review ;
+    rdfs:range ex:Author .
+
 ex:written_by a rdf:Property ;
+    rdfs:label "written by"@en ;
     rdfs:domain ex:Paper ;
     rdfs:range ex:Author .
 
