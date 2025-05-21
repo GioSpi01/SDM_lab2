@@ -86,6 +86,11 @@ ex:has_content a rdf:Property ;
     rdfs:domain ex:Review ;
     rdfs:range xsd:string .
 
+ex:has_date a rdf:Property ;
+    rdfs:label "has date"@en ;
+    rdfs:domain ex:Publication ;
+    rdfs:range xsd:string .
+
 ex:has_editor a rdf:Property ;
     rdfs:label "has editor"@en ;
     rdfs:domain ex:Journal ;
@@ -100,11 +105,6 @@ ex:has_proceedings_record a rdf:Property ;
     rdfs:label "has proceedings record"@en ;
     rdfs:domain ex:ConferenceEdition ;
     rdfs:range ex:Proceeding .
-
-ex:has_publication_year a rdf:Property ;
-    rdfs:label "has publication year"@en ;
-    rdfs:domain ex:JournalVolume ;
-    rdfs:range xsd:string .
 
 ex:has_review a rdf:Property ;
     rdfs:label "has review"@en ;
@@ -123,11 +123,6 @@ ex:has_topic a rdf:Property ;
 
 ex:held_in_city a rdf:Property ;
     rdfs:label "held in city"@en ;
-    rdfs:domain ex:ConferenceEdition ;
-    rdfs:range xsd:string .
-
-ex:held_in_date a rdf:Property ;
-    rdfs:label "held in date"@en ;
     rdfs:domain ex:ConferenceEdition ;
     rdfs:range xsd:string .
 
