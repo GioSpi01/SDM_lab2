@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "_stopper_comment": "While the original config had 100, early stopping will now switch it to 65",
+    "_stopper_comment": "While the original config had 150, early stopping will now switch it to 80",
     "_stopper_kwargs_removed_comment": "stopper_kwargs config removed after HPO: {'patience': 10, 'frequency': 5, 'metric': 'hits@5', 'relative_delta': 0.002, 'larger_is_better': True}",
-    "best_trial_evaluation": 0.07346925884485245,
-    "best_trial_number": 22,
+    "best_trial_evaluation": 0.07651945948600769,
+    "best_trial_number": 2,
     "git_hash": "UNHASHED",
     "version": "1.11.2-dev"
   },
@@ -12,27 +12,27 @@
     "filter_validation_when_testing": true,
     "loss": "marginranking",
     "loss_kwargs": {
-      "margin": 2.213980013009602
+      "margin": 1.0060977737686165
     },
     "model": "rotate",
     "model_kwargs": {
-      "embedding_dim": 256,
+      "embedding_dim": 128,
       "random_seed": 2025
     },
     "negative_sampler": "basic",
     "negative_sampler_kwargs": {
-      "num_negs_per_pos": 7
+      "num_negs_per_pos": 4
     },
     "optimizer": "adam",
     "optimizer_kwargs": {
-      "lr": 0.00040120493160491176,
-      "weight_decay": 0.00010103276524793013
+      "lr": 0.00017630442074279058,
+      "weight_decay": 0.00042493165903843046
     },
     "testing": "<user defined>",
     "training": "<user defined>",
     "training_kwargs": {
-      "batch_size": 256,
-      "num_epochs": 65
+      "batch_size": 32,
+      "num_epochs": 80
     },
     "training_loop": "slcwa",
     "validation": "<user defined>"

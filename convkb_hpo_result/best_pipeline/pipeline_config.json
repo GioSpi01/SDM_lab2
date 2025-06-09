@@ -1,8 +1,8 @@
 {
   "metadata": {
     "_stopper_kwargs_removed_comment": "stopper_kwargs config removed after HPO: {'patience': 10, 'frequency': 5, 'metric': 'hits@5', 'relative_delta': 0.002, 'larger_is_better': True}",
-    "best_trial_evaluation": 0.07905250787734985,
-    "best_trial_number": 12,
+    "best_trial_evaluation": 0.07285245507955551,
+    "best_trial_number": 26,
     "git_hash": "UNHASHED",
     "version": "1.11.2-dev"
   },
@@ -11,33 +11,33 @@
     "filter_validation_when_testing": true,
     "loss": "marginranking",
     "loss_kwargs": {
-      "margin": 1.770832179636297
+      "margin": 2.282755315281401
     },
     "model": "convkb",
     "model_kwargs": {
-      "embedding_dim": 128,
-      "hidden_dropout_rate": 0.4,
-      "num_filters": 96,
+      "embedding_dim": 256,
+      "hidden_dropout_rate": 0.3,
+      "num_filters": 64,
       "random_seed": 2025
     },
     "negative_sampler": "basic",
     "negative_sampler_kwargs": {
-      "num_negs_per_pos": 7
+      "num_negs_per_pos": 10
     },
     "optimizer": "adam",
     "optimizer_kwargs": {
-      "lr": 0.0009500990929908181,
-      "weight_decay": 0.0008933836919343724
+      "lr": 0.0005830043610509738,
+      "weight_decay": 0.00028035290813683834
     },
     "regularizer": "lp",
     "regularizer_kwargs": {
-      "weight": 0.027372523769193746
+      "weight": 0.20897277863962865
     },
     "testing": "<user defined>",
     "training": "<user defined>",
     "training_kwargs": {
-      "batch_size": 128,
-      "num_epochs": 100
+      "batch_size": 64,
+      "num_epochs": 50
     },
     "training_loop": "slcwa",
     "validation": "<user defined>"
