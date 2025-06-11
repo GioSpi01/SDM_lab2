@@ -1,8 +1,8 @@
 {
   "metadata": {
     "_stopper_kwargs_removed_comment": "stopper_kwargs config removed after HPO: {'patience': 10, 'frequency': 5, 'metric': 'hits@5', 'relative_delta': 0.002, 'larger_is_better': True}",
-    "best_trial_evaluation": 0.07163943350315094,
-    "best_trial_number": 27,
+    "best_trial_evaluation": 0.023986712098121643,
+    "best_trial_number": 29,
     "git_hash": "UNHASHED",
     "version": "1.11.2-dev"
   },
@@ -12,7 +12,7 @@
     "loss": "softplus",
     "model": "complex",
     "model_kwargs": {
-      "embedding_dim": 128,
+      "embedding_dim": 192,
       "random_seed": 2025
     },
     "negative_sampler": "basic",
@@ -21,8 +21,8 @@
     },
     "optimizer": "adam",
     "optimizer_kwargs": {
-      "lr": 0.0007648585684218412,
-      "weight_decay": 0.0003585223557169232
+      "lr": 0.0007252267916688366,
+      "weight_decay": 0.0005851059396488976
     },
     "testing": "<user defined>",
     "training": "<user defined>",
