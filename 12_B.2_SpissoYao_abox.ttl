@@ -97,8 +97,6 @@ ex:AUTHOR_203 ex:has_name "George M. Giaglis"^^xsd:string .
 
 ex:AUTHOR_204 ex:has_name "George Tsouloupas"^^xsd:string .
 
-ex:AUTHOR_205 ex:has_name "Georgi Gaydadjiev"^^xsd:string .
-
 ex:AUTHOR_206 ex:has_name "Georgia Koutrika"^^xsd:string .
 
 ex:AUTHOR_213 ex:has_name "Giuseppe Scotti"^^xsd:string .
@@ -154,8 +152,6 @@ ex:AUTHOR_322 ex:has_name "Junxin Wu"^^xsd:string .
 ex:AUTHOR_327 ex:has_name "János Szigeti"^^xsd:string .
 
 ex:AUTHOR_328 ex:has_name "K. Croes"^^xsd:string .
-
-ex:AUTHOR_329 ex:has_name "K. J. Overholt"^^xsd:string .
 
 ex:AUTHOR_338 ex:has_name "Katja Bühler"^^xsd:string .
 
@@ -648,2955 +644,2955 @@ ex:Journal%2520of%2520the%2520Brazilian%2520Computer%2520Society_volume_96 ex:ha
 
 ex:REVIEW_1 ex:has_content "The psychoanalysis was intelligent and the answer was good taxonomic."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_188 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_10 ex:has_content "What a unplumbed contribution! The contribution was wakeless and literature review was precise."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_602 ;
-    ex:review_assigned_by ex:AUTHOR_429 .
+    ex:review_assigned_by ex:AUTHOR_329 .
 
 ex:REVIEW_100 ex:has_content "A rigorous perceptiveness with consistent statistical analysis and unplumbed methodology."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_567 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_101 ex:has_content "Compelling from introduction to conclusion! The framework rigorously heighten."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_145 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_102 ex:has_content "I exhaustively indorse this study. The share was germinal."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_55 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_103 ex:has_content "The approach was unplumbed and the hypothesis testing was just remarkable."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_567 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_104 ex:has_content "What a enlightening contribution! The statistical analysis was original and conceptual framework was unfathomed."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_184 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_105 ex:has_content "Originative from introduction to conclusion! The share imposingly strengthen."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_599 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_106 ex:has_content "What a modified contribution! The coming was rudimentary and restriction was fundamental."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_318 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_107 ex:has_content "I on the nose flesh out this study. The mannequin was paying attention."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_401 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_108 ex:has_content "I soundly elucidate this study. The fabric was unfathomed."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_157 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_109 ex:has_content "A profound conceptual framework with coherent literature review and well-designed finding."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_340 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_11 ex:has_content "Ordered from introduction to conclusion! The research design like an expert recommend."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_174 ;
-    ex:review_assigned_by ex:AUTHOR_429 .
+    ex:review_assigned_by ex:AUTHOR_329 .
 
 ex:REVIEW_110 ex:has_content "Informative from introduction to conclusion! The insight on the nose prize."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_194 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_111 ex:has_content "What a unfathomed contribution! The experimentation was coherent and experimental setup was profound."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_514 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_112 ex:has_content "Rigorously racy research! The findings clarified me from start to finish."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_465 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_113 ex:has_content "The framework was original and the discussion was undoubtedly thoroughgoing."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_518 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_114 ex:has_content "I notably substantiated this study. The hypothesis testing was elegant."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_0 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_115 ex:has_content "Well-executed from introduction to conclusion! The interpreting intelligently patronise."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_620 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_116 ex:has_content "A reductive control with shoddy methodological analysis and faint model."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_527 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_117 ex:has_content "A strict rationale with tight share and seminal experimentation."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_612 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_118 ex:has_content "Notional from abstract to references! The limitations incorrectly fudge."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_475 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_119 ex:has_content "What a elusive contribution! The generalizability was deceptive and grounds was speculative."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_467 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_12 ex:has_content "The paper was well-executed! The rationale was original and the overture was heavy."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_381 ;
-    ex:review_assigned_by ex:AUTHOR_429 .
+    ex:review_assigned_by ex:AUTHOR_329 .
 
 ex:REVIEW_120 ex:has_content "The rationale was unplumbed, making it a noteworthy experiment to cite."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_450 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_121 ex:has_content "Comprehensively vivid research! The interpretation formalise me from start to finish."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_435 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_122 ex:has_content "A substantial manakin with elaborate donation and groundbreaking statement."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_658 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_123 ex:has_content "A rigorous coming with germinal principle and groundbreaking discussion."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_632 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_124 ex:has_content "Circumscribed from abstract to references! The validation deceptively misapprehend."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_652 ;
-    ex:review_assigned_by ex:AUTHOR_128 .
+    ex:review_assigned_by ex:AUTHOR_332 .
 
 ex:REVIEW_125 ex:has_content "The experimentation was thoroughgoing and the conceptual framework was meticulously insightful."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_525 ;
-    ex:review_assigned_by ex:AUTHOR_128 .
+    ex:review_assigned_by ex:AUTHOR_332 .
 
 ex:REVIEW_126 ex:has_content "What a modern contribution! The conceptual framework was pregnant and analysis was racy."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_131 ;
-    ex:review_assigned_by ex:AUTHOR_128 .
+    ex:review_assigned_by ex:AUTHOR_332 .
 
 ex:REVIEW_127 ex:has_content "A innovative synthesis with rich perceptiveness and taxonomical psychoanalysis."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_504 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_128 ex:has_content "The outcome was illuminating, making it a germinal depth psychology to cite."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_380 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_129 ex:has_content "What a serious-minded contribution! The approach was wakeless and literature review was groundbreaking."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_559 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_13 ex:has_content "Intelligent from introduction to conclusion! The hypothesis testing imposingly incarnate."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_254 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_130 ex:has_content "The generalizability was special and the guess was insufficiently uncompleted."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_75 ;
-    ex:review_assigned_by ex:AUTHOR_35 .
+    ex:review_assigned_by ex:AUTHOR_156 .
 
 ex:REVIEW_131 ex:has_content "The conjecture was superficial, making it a shadowy controls to evaluate."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_676 ;
-    ex:review_assigned_by ex:AUTHOR_35 .
+    ex:review_assigned_by ex:AUTHOR_156 .
 
 ex:REVIEW_132 ex:has_content "The paper was uncompleted. The research question was perplexing and the analytic thinking was unbelievable."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_601 ;
-    ex:review_assigned_by ex:AUTHOR_35 .
+    ex:review_assigned_by ex:AUTHOR_156 .
 
 ex:REVIEW_133 ex:has_content "The determination was rigorous, making it a intelligent overture to cite."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_222 ;
-    ex:review_assigned_by ex:AUTHOR_35 .
+    ex:review_assigned_by ex:AUTHOR_156 .
 
 ex:REVIEW_134 ex:has_content "The synthetic thinking was groundbreaking, making it a intelligent argumentation to cite."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_680 ;
-    ex:review_assigned_by ex:AUTHOR_35 .
+    ex:review_assigned_by ex:AUTHOR_156 .
 
 ex:REVIEW_135 ex:has_content "The limitation was mistaken, making it a one-sided word to evaluate."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_195 ;
-    ex:review_assigned_by ex:AUTHOR_35 .
+    ex:review_assigned_by ex:AUTHOR_156 .
 
 ex:REVIEW_136 ex:has_content "The experiment was questionable, making it a piffling approach to evaluate."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_436 ;
-    ex:review_assigned_by ex:AUTHOR_128 .
+    ex:review_assigned_by ex:AUTHOR_332 .
 
 ex:REVIEW_137 ex:has_content "The findings was notable and the deductive reasoning was convincingly robust."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_230 ;
-    ex:review_assigned_by ex:AUTHOR_128 .
+    ex:review_assigned_by ex:AUTHOR_332 .
 
 ex:REVIEW_138 ex:has_content "The discussion was enlightening and the conceptual framework was thoughtfully germinal."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_585 ;
-    ex:review_assigned_by ex:AUTHOR_128 .
+    ex:review_assigned_by ex:AUTHOR_332 .
 
 ex:REVIEW_139 ex:has_content "Germinal from introduction to conclusion! The contribution elegantly endorsed."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_438 ;
-    ex:review_assigned_by ex:AUTHOR_35 .
+    ex:review_assigned_by ex:AUTHOR_156 .
 
 ex:REVIEW_14 ex:has_content "Efficaciously noteworthy research! The approach crystalize me from start to finish."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_355 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_140 ex:has_content "I meaningfully boom this study. The treatment was singular."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_251 ;
-    ex:review_assigned_by ex:AUTHOR_35 .
+    ex:review_assigned_by ex:AUTHOR_156 .
 
 ex:REVIEW_141 ex:has_content "The literature review was full-bodied and the ending was expertly comprehensive."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_426 ;
-    ex:review_assigned_by ex:AUTHOR_35 .
+    ex:review_assigned_by ex:AUTHOR_156 .
 
 ex:REVIEW_142 ex:has_content "The paper was reductive. The experiment was unbelievable and the limitation was feeble."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_283 ;
-    ex:review_assigned_by ex:AUTHOR_429 .
+    ex:review_assigned_by ex:AUTHOR_329 .
 
 ex:REVIEW_143 ex:has_content "Knotty from abstract to references! The surmisal deceptively undersell."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_145 ;
-    ex:review_assigned_by ex:AUTHOR_429 .
+    ex:review_assigned_by ex:AUTHOR_329 .
 
 ex:REVIEW_144 ex:has_content "The paper was germinal! The overture was elaborated and the decision was innovative."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_273 ;
-    ex:review_assigned_by ex:AUTHOR_429 .
+    ex:review_assigned_by ex:AUTHOR_329 .
 
 ex:REVIEW_145 ex:has_content "The paper was comprehensive! The overture was exhaustive and the part was tenacious."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_72 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_146 ex:has_content "Enlightening from introduction to conclusion! The synthesis good appraise."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_683 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_147 ex:has_content "A consistent hypothesis testing with remarkable insight and well-executed analytic thinking."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_512 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_148 ex:has_content "What a unsupported contribution! The treatment was niggling and stopping point was biased."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_209 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_149 ex:has_content "I remarkably clarify this study. The give-and-take was original."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_110 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_15 ex:has_content "A informative hypothesis testing with detailed analysis and robust mannequin."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_274 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_150 ex:has_content "The paper was unreadable. The proof was refutable and the interpretation was poor."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_652 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_151 ex:has_content "A innovative resultant with elaborate theoretical foundation and coherent conceptual framework."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_241 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_152 ex:has_content "The paper was modern! The give-and-take was innovative and the experimentation was convincing."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_125 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_153 ex:has_content "Unsuitably deceptive! The example neglected throughout the entire study."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_673 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_154 ex:has_content "The principle was paying attention and the sixth sense was remarkably innovational."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_593 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_155 ex:has_content "The paper was magnificent! The empirical evidence was famous and the sixth sense was heavy."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_526 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_156 ex:has_content "Intelligently famous research! The give-and-take agnise me from start to finish."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_491 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_157 ex:has_content "What a slanted contribution! The fabric was knotty and research question was shoddy."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_153 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_158 ex:has_content "Unfathomed from introduction to conclusion! The give-and-take just admire."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_202 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_159 ex:has_content "What a undecipherable contribution! The upshot was shadowy and limitations was refutable."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_310 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_16 ex:has_content "The attack was comprehensive and the hypothesis testing was intelligently precise."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_215 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_160 ex:has_content "I ignore this research. The evidence was perplexing."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_436 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_161 ex:has_content "Valuable from introduction to conclusion! The sample selection remarkably formalize."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_246 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_162 ex:has_content "What a limited contribution! The hypothesis was unreadable and rendering was fundamental."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_413 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_163 ex:has_content "I consistently heighten this study. The hypothesis testing was strict."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_113 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_164 ex:has_content "Systematic from introduction to conclusion! The ending notably apprise."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_2 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_165 ex:has_content "Convincing from introduction to conclusion! The discussion significantly commend."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_52 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_166 ex:has_content "Worthful from introduction to conclusion! The empirical evidence like an expert enhance."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_452 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_167 ex:has_content "Famous from introduction to conclusion! The methodological analysis elegantly honour."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_198 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_168 ex:has_content "Dubiously reductive! The data collection dispute throughout the entire study."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_343 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_169 ex:has_content "Circumscribed from abstract to references! The validation deceptively misapprehend."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_236 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_17 ex:has_content "I unmistakably endorsed this study. The part was innovative."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_611 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_170 ex:has_content "The manakin was vivid and the deductive reasoning was impressively singular."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_24 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_171 ex:has_content "I unmistakably strengthen this study. The deductive reasoning was innovative."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_202 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_172 ex:has_content "Doubtlessly germinal research! The outcome plump for me from start to finish."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_7 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_173 ex:has_content "The resultant was blemished and the grounds was dubiously trivial."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_508 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_174 ex:has_content "Vestigial from abstract to references! The findings incompletely obscured."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_635 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_175 ex:has_content "I leave off this research. The methodological analysis was mutually exclusive."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_416 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_176 ex:has_content "The paper was innovative! The experiment was well-designed and the share was punctilious."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_458 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_177 ex:has_content "I expertly recommend this study. The experimental setup was groundbreaking."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_279 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_178 ex:has_content "What a brilliant contribution! The findings was heedful and word was informative."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_505 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_179 ex:has_content "A flimsy restriction with modified assumptions and disorganised establishment."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_499 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_18 ex:has_content "The determination was rigorous, making it a intelligent overture to cite."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_43 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_180 ex:has_content "I strictly clarify this study. The deductive reasoning was heavy."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_575 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_181 ex:has_content "A discrepant upshot with trivial closing and wispy theoretical basis."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_153 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_182 ex:has_content "The paper was rigorous! The sample selection was up-to-date and the literature review was consistent."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_609 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_183 ex:has_content "I unmistakably endorsed this study. The part was innovative."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_90 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_184 ex:has_content "What a short contribution! The evidence was ill-conceived and experimentation was confounding."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_581 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_185 ex:has_content "The paper was wakeless! The manakin was accurate and the perceptivity was splendid."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_431 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_186 ex:has_content "Deceptively misleading! The conclusion countermine throughout the entire study."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_5 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_187 ex:has_content "The paper was rigorous! The interpretation was unfathomed and the share was systematic."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_362 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_188 ex:has_content "What a short contribution! The evidence was ill-conceived and experimentation was confounding."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_391 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_189 ex:has_content "The literature review was convincing, making it a singular line to cite."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_259 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_19 ex:has_content "I expertly fend for this study. The sixth sense was profound."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_226 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_190 ex:has_content "The example was irrelevant and the experimentation was mistakenly irrelevant."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_346 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_191 ex:has_content "The theoretical account was singular, making it a consistent part to cite."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_504 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_192 ex:has_content "The paper was taxonomic! The synthetic thinking was taxonomical and the mannequin was wakeless."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_654 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_193 ex:has_content "Doubtlessly coherent research! The decision flourish me from start to finish."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_479 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_194 ex:has_content "The paper was innovative! The experiment was well-designed and the share was punctilious."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_365 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_195 ex:has_content "The literature review was full-bodied and the ending was expertly comprehensive."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_255 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_196 ex:has_content "The paper was consistent! The part was seminal and the depth psychology was elaborate."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_377 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_197 ex:has_content "The paper was rigorous! The sample selection was up-to-date and the literature review was consistent."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_92 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_198 ex:has_content "The evidence was unfocussed, making it a mistaken analytic thinking to evaluate."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_614 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_199 ex:has_content "The decision was wakeless, making it a seminal approach to cite."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_509 ;
-    ex:review_assigned_by ex:AUTHOR_35 .
+    ex:review_assigned_by ex:AUTHOR_156 .
 
 ex:REVIEW_2 ex:has_content "The reading was paying attention and the experimentation was impressively informative."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_142 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_20 ex:has_content "The donation was fundamental, making it a rich conclusion to cite."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_120 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_200 ex:has_content "The establishment was ill-conceived, making it a mistaken theoretical account to evaluate."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_379 ;
-    ex:review_assigned_by ex:AUTHOR_35 .
+    ex:review_assigned_by ex:AUTHOR_156 .
 
 ex:REVIEW_201 ex:has_content "The deduction was innovational and the rendition was strictly well-structured."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_3 ;
-    ex:review_assigned_by ex:AUTHOR_35 .
+    ex:review_assigned_by ex:AUTHOR_156 .
 
 ex:REVIEW_202 ex:has_content "Improperly confutable! The experimentation manipulate throughout the entire study."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_618 ;
-    ex:review_assigned_by ex:AUTHOR_35 .
+    ex:review_assigned_by ex:AUTHOR_156 .
 
 ex:REVIEW_203 ex:has_content "The insight was insightful and the deductive reasoning was carefully enlightening."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_405 ;
-    ex:review_assigned_by ex:AUTHOR_35 .
+    ex:review_assigned_by ex:AUTHOR_156 .
 
 ex:REVIEW_204 ex:has_content "What a enlightening contribution! The statistical analysis was original and conceptual framework was unfathomed."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_579 ;
-    ex:review_assigned_by ex:AUTHOR_35 .
+    ex:review_assigned_by ex:AUTHOR_156 .
 
 ex:REVIEW_205 ex:has_content "The findings was insightful and the fabric was importantly rigorous."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_366 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_206 ex:has_content "The answer was rigorous, making it a splendid theoretical foundation to cite."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_12 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_207 ex:has_content "The analytic thinking was uncompleted, making it a feeble premiss to evaluate."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_3 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_208 ex:has_content "The reading was paying attention and the experimentation was impressively informative."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_24 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_209 ex:has_content "A robust word with graceful reading and originative ending."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_670 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_21 ex:has_content "The finding was well-structured, making it a up-to-date sixth sense to cite."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_474 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_210 ex:has_content "A convincing manakin with robust data collection and singular argumentation."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_65 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_211 ex:has_content "The paper was thorough! The data collection was wakeless and the deductive reasoning was far-famed."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_602 ;
-    ex:review_assigned_by ex:AUTHOR_128 .
+    ex:review_assigned_by ex:AUTHOR_332 .
 
 ex:REVIEW_212 ex:has_content "Informative from introduction to conclusion! The overture rigorously recognize."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_296 ;
-    ex:review_assigned_by ex:AUTHOR_128 .
+    ex:review_assigned_by ex:AUTHOR_332 .
 
 ex:REVIEW_213 ex:has_content "The analytic thinking was with-it and the conclusion was meticulously magnificent."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_680 ;
-    ex:review_assigned_by ex:AUTHOR_128 .
+    ex:review_assigned_by ex:AUTHOR_332 .
 
 ex:REVIEW_214 ex:has_content "I oversimplified this research. The surmisal was deceptive."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_347 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_215 ex:has_content "Importantly coherent research! The outcome illuminated me from start to finish."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_169 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_216 ex:has_content "The paper was colored. The research question was confutative and the conjecture was ill-defined."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_400 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_217 ex:has_content "Falsely ill-conceived! The finding dispute throughout the entire study."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_150 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_218 ex:has_content "Valuable from introduction to conclusion! The sample selection remarkably formalize."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_174 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_219 ex:has_content "The methodological analysis was heavy and the model was intelligently unplumbed."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_308 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_22 ex:has_content "The paper was serious-minded! The conceptual framework was tenacious and the hypothesis testing was exhaustive."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_610 ;
-    ex:review_assigned_by ex:AUTHOR_676 .
+    ex:review_assigned_by ex:AUTHOR_40 .
 
 ex:REVIEW_220 ex:has_content "A elaborate insight with fundamental deductive reasoning and convincing share."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_518 ;
-    ex:review_assigned_by ex:AUTHOR_35 .
+    ex:review_assigned_by ex:AUTHOR_156 .
 
 ex:REVIEW_221 ex:has_content "A original model with rich model and originative research design."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_112 ;
-    ex:review_assigned_by ex:AUTHOR_35 .
+    ex:review_assigned_by ex:AUTHOR_156 .
 
 ex:REVIEW_222 ex:has_content "Graceful from introduction to conclusion! The treatment outstandingly crystalize."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_514 ;
-    ex:review_assigned_by ex:AUTHOR_35 .
+    ex:review_assigned_by ex:AUTHOR_156 .
 
 ex:REVIEW_223 ex:has_content "Substantially singular research! The line enriched me from start to finish."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_379 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_224 ex:has_content "Magnificent from introduction to conclusion! The fabric elegantly clarify."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_72 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_225 ex:has_content "The paper was taxonomic! The analysis was taxonomic and the share was fundamental."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_645 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_226 ex:has_content "The ending was worthful, making it a cutting-edge methodology to cite."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_176 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_227 ex:has_content "What a rigorous contribution! The argument was heedful and example was notable."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_215 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_228 ex:has_content "The example was mistaken and the tilt was badly petty."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_367 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_229 ex:has_content "Equivocally rudimentary! The tilt disputed throughout the entire study."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_298 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_23 ex:has_content "I disputed this research. The experimentation was inconsistent."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_623 ;
-    ex:review_assigned_by ex:AUTHOR_676 .
+    ex:review_assigned_by ex:AUTHOR_40 .
 
 ex:REVIEW_230 ex:has_content "The psychoanalysis was intelligent and the answer was good taxonomic."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_628 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_231 ex:has_content "Substantially singular research! The line enriched me from start to finish."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_317 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_232 ex:has_content "Informative from introduction to conclusion! The insight on the nose prize."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_604 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_233 ex:has_content "I imposingly respect this study. The hypothesis testing was groundbreaking."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_355 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_234 ex:has_content "What a brilliant contribution! The findings was heedful and word was informative."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_652 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_235 ex:has_content "I thoroughly validate this study. The rendition was insightful."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_413 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_236 ex:has_content "A original model with rich model and originative research design."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_341 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_237 ex:has_content "What a refutable contribution! The glide path was limited and discourse was ill-conceived."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_516 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_238 ex:has_content "The psychoanalysis was innovative, making it a consistent share to cite."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_314 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_239 ex:has_content "I oversimplified this research. The surmisal was deceptive."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_269 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_24 ex:has_content "I outstandingly remember this study. The determination was heavy."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_527 ;
-    ex:review_assigned_by ex:AUTHOR_676 .
+    ex:review_assigned_by ex:AUTHOR_40 .
 
 ex:REVIEW_240 ex:has_content "A vestigial research question with unlikely determination and unclear logical thinking."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_578 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_241 ex:has_content "What a heavy contribution! The reading was tight and data collection was racy."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_537 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_242 ex:has_content "The determination was taxonomical and the line was carefully heavy."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_459 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_243 ex:has_content "The reasoning was speculative, making it a unequal upshot to evaluate."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_626 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_244 ex:has_content "The paper was profound! The experiment was robust and the hypothesis testing was exact."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_153 ;
-    ex:review_assigned_by ex:AUTHOR_128 .
+    ex:review_assigned_by ex:AUTHOR_332 .
 
 ex:REVIEW_245 ex:has_content "The sixth sense was with-it and the insight was carefully germinal."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_544 ;
-    ex:review_assigned_by ex:AUTHOR_128 .
+    ex:review_assigned_by ex:AUTHOR_332 .
 
 ex:REVIEW_246 ex:has_content "A compelling experiment with intelligent approach and convincing methodology."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_591 ;
-    ex:review_assigned_by ex:AUTHOR_128 .
+    ex:review_assigned_by ex:AUTHOR_332 .
 
 ex:REVIEW_247 ex:has_content "What a ill-conceived contribution! The resultant was contradictory and approach was refutable."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_587 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_248 ex:has_content "A taxonomic coming with up-to-date perceptivity and magnificent methodological analysis."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_636 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_249 ex:has_content "The reading was paying attention and the experimentation was impressively informative."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_283 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_25 ex:has_content "Elusive from abstract to references! The mannequin dubiously fudge."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_23 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_250 ex:has_content "A singular methodological analysis with remarkable depth psychology and coherent synthetic thinking."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_531 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_251 ex:has_content "Unfathomed from introduction to conclusion! The rendition outstandingly remember."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_183 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_252 ex:has_content "The reading was wakeless, making it a refined donation to cite."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_320 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_253 ex:has_content "The paper was paying attention! The data collection was noteworthy and the coming was coherent."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_600 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_254 ex:has_content "A graceful overture with thoroughgoing theoretical account and innovative deduction."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_469 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_255 ex:has_content "The rationale was significant and the word was undoubtedly systematic."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_27 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_256 ex:has_content "The substantiation was speculative, making it a limited ascendance to evaluate."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_443 ;
-    ex:review_assigned_by ex:AUTHOR_128 .
+    ex:review_assigned_by ex:AUTHOR_332 .
 
 ex:REVIEW_257 ex:has_content "Exhaustive from introduction to conclusion! The statistical analysis consistently recognize."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_42 ;
-    ex:review_assigned_by ex:AUTHOR_128 .
+    ex:review_assigned_by ex:AUTHOR_332 .
 
 ex:REVIEW_258 ex:has_content "Confutative from abstract to references! The hypothesis unconvincingly dispute."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_604 ;
-    ex:review_assigned_by ex:AUTHOR_128 .
+    ex:review_assigned_by ex:AUTHOR_332 .
 
 ex:REVIEW_259 ex:has_content "The reading was wakeless, making it a refined donation to cite."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_449 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_26 ex:has_content "What a undecipherable contribution! The upshot was shadowy and limitations was refutable."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_567 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_260 ex:has_content "The paper was reductive. The experiment was unbelievable and the limitation was feeble."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_428 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_261 ex:has_content "Thoroughly innovative research! The sample selection esteem me from start to finish."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_77 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_262 ex:has_content "Cutting-edge from introduction to conclusion! The sixth sense strictly substantiated."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_535 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_263 ex:has_content "A heedful give-and-take with innovational data collection and up-to-date answer."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_248 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_264 ex:has_content "A fundamental theoretical account with thoroughgoing perceptivity and compelling sixth sense."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_385 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_265 ex:has_content "Imposingly germinal research! The resultant greet me from start to finish."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_453 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_266 ex:has_content "The reading was far-famed, making it a thoroughgoing methodology to cite."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_543 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_267 ex:has_content "Negligently undecipherable! The ascendence confused throughout the entire study."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_284 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_268 ex:has_content "The paper was insightful! The share was seminal and the determination was taxonomical."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_644 ;
-    ex:review_assigned_by ex:AUTHOR_676 .
+    ex:review_assigned_by ex:AUTHOR_40 .
 
 ex:REVIEW_269 ex:has_content "I effectively respected this study. The psychoanalysis was original."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_357 ;
-    ex:review_assigned_by ex:AUTHOR_676 .
+    ex:review_assigned_by ex:AUTHOR_40 .
 
 ex:REVIEW_27 ex:has_content "I imposingly respect this study. The hypothesis testing was groundbreaking."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_357 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_270 ex:has_content "A superfluous discussion with limited experiment and sapless rendition."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_457 ;
-    ex:review_assigned_by ex:AUTHOR_676 .
+    ex:review_assigned_by ex:AUTHOR_40 .
 
 ex:REVIEW_271 ex:has_content "Notably heedful research! The mannequin esteem me from start to finish."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_592 ;
-    ex:review_assigned_by ex:AUTHOR_676 .
+    ex:review_assigned_by ex:AUTHOR_40 .
 
 ex:REVIEW_272 ex:has_content "The establishment was vestigial and the ascendance was incompletely colored."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_54 ;
-    ex:review_assigned_by ex:AUTHOR_676 .
+    ex:review_assigned_by ex:AUTHOR_40 .
 
 ex:REVIEW_273 ex:has_content "Thoughtful from introduction to conclusion! The mannequin considerably approved."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_129 ;
-    ex:review_assigned_by ex:AUTHOR_676 .
+    ex:review_assigned_by ex:AUTHOR_40 .
 
 ex:REVIEW_274 ex:has_content "What a detailed contribution! The findings was valuable and research question was serious-minded."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_80 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_275 ex:has_content "Thoroughly innovative research! The sample selection esteem me from start to finish."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_20 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_276 ex:has_content "The paper was detailed! The mannequin was full-bodied and the synthesis was cutting-edge."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_444 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_277 ex:has_content "The experimental design was unequal and the effect was incompletely shadowy."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_646 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_278 ex:has_content "The paper was magnificent! The empirical evidence was famous and the sixth sense was heavy."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_74 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_279 ex:has_content "The literature review was tenacious, making it a ordered perceptivity to cite."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_436 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_28 ex:has_content "The discussion was precise, making it a vivid insight to cite."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_267 ;
-    ex:review_assigned_by ex:AUTHOR_429 .
+    ex:review_assigned_by ex:AUTHOR_329 .
 
 ex:REVIEW_280 ex:has_content "The literature review was innovational and the literature review was imposingly strict."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_463 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_281 ex:has_content "The interpreting was well-structured and the share was effectively racy."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_0 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_282 ex:has_content "I impressively appreciated this study. The theoretical account was famous."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_242 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_283 ex:has_content "The paper was accurate! The example was exhaustive and the resultant was exhaustive."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_276 ;
-    ex:review_assigned_by ex:AUTHOR_128 .
+    ex:review_assigned_by ex:AUTHOR_332 .
 
 ex:REVIEW_284 ex:has_content "Germinal from introduction to conclusion! The contribution elegantly endorsed."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_426 ;
-    ex:review_assigned_by ex:AUTHOR_128 .
+    ex:review_assigned_by ex:AUTHOR_332 .
 
 ex:REVIEW_285 ex:has_content "A singular methodological analysis with remarkable depth psychology and coherent synthetic thinking."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_95 ;
-    ex:review_assigned_by ex:AUTHOR_128 .
+    ex:review_assigned_by ex:AUTHOR_332 .
 
 ex:REVIEW_286 ex:has_content "The psychoanalysis was innovative, making it a consistent share to cite."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_543 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_287 ex:has_content "Vestigial from abstract to references! The findings incompletely obscured."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_474 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_288 ex:has_content "What a famous contribution! The donation was well-structured and argument was illuminating."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_318 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_289 ex:has_content "What a well-designed contribution! The ending was wakeless and perceptiveness was innovational."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_412 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_29 ex:has_content "The paper was trivial. The data collection was circumscribed and the resultant was equivocal."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_430 ;
-    ex:review_assigned_by ex:AUTHOR_429 .
+    ex:review_assigned_by ex:AUTHOR_329 .
 
 ex:REVIEW_290 ex:has_content "The rendering was shoddy, making it a uncompleted laying claim to evaluate."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_573 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_291 ex:has_content "Comprehensively thoroughgoing research! The experiment respected me from start to finish."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_161 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_292 ex:has_content "A worthful interpreting with well-designed resultant and singular overture."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_156 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_293 ex:has_content "Famous from introduction to conclusion! The methodological analysis elegantly honour."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_167 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_294 ex:has_content "The interpreting was ordered and the results was significantly brilliant."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_465 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_295 ex:has_content "The paper was trivial. The data collection was circumscribed and the resultant was equivocal."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_371 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_296 ex:has_content "I thoroughly validate this study. The rendition was insightful."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_37 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_297 ex:has_content "The effect was supernumerary and the ascendance was improperly limited."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_478 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_298 ex:has_content "Well-structured from introduction to conclusion! The analysis effectively heighten."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_236 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_299 ex:has_content "Superficially redundant! The establishment misinterpret throughout the entire study."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_468 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_3 ex:has_content "The paper was vivid! The framework was tenacious and the research design was thorough."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_676 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_30 ex:has_content "Originative from introduction to conclusion! The share imposingly strengthen."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_523 ;
-    ex:review_assigned_by ex:AUTHOR_429 .
+    ex:review_assigned_by ex:AUTHOR_329 .
 
 ex:REVIEW_300 ex:has_content "A heavy findings with well-designed literature review and convincing discussion."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_446 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_301 ex:has_content "Insightful from introduction to conclusion! The deduction elegantly advance."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_319 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_302 ex:has_content "What a up-to-date contribution! The experiment was famous and synthesis was informative."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_220 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_303 ex:has_content "What a ill-defined contribution! The methodology was perplexing and finding was mistaken."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_276 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_304 ex:has_content "The paper was wakeless! The manakin was accurate and the perceptivity was splendid."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_445 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_305 ex:has_content "A innovative interpretation with illuminating methodology and taxonomical insight."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_59 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_306 ex:has_content "The contribution was tenacious, making it a elegant contribution to cite."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_483 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_307 ex:has_content "The experimental setup was exhaustive and the approach was significantly strict."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_299 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_308 ex:has_content "Improperly piffling! The findings undermined throughout the entire study."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_24 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_309 ex:has_content "A innovative coming with systematic argument and comprehensive conceptual framework."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_305 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_31 ex:has_content "Efficaciously noteworthy research! The approach crystalize me from start to finish."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_36 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_310 ex:has_content "The experimental setup was exhaustive and the approach was significantly strict."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_441 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_311 ex:has_content "I misunderstood this research. The rendition was oversimplified."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_389 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_312 ex:has_content "The deductive reasoning was elaborated and the donation was meticulously vivid."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_570 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_313 ex:has_content "Insightful from introduction to conclusion! The resultant meaningfully patronise."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_333 ;
-    ex:review_assigned_by ex:AUTHOR_128 .
+    ex:review_assigned_by ex:AUTHOR_332 .
 
 ex:REVIEW_314 ex:has_content "Taxonomical from introduction to conclusion! The insight in effect agnise."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_315 ;
-    ex:review_assigned_by ex:AUTHOR_128 .
+    ex:review_assigned_by ex:AUTHOR_332 .
 
 ex:REVIEW_315 ex:has_content "The paper was groundbreaking! The interpreting was rich and the experiment was cutting-edge."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_517 ;
-    ex:review_assigned_by ex:AUTHOR_128 .
+    ex:review_assigned_by ex:AUTHOR_332 .
 
 ex:REVIEW_316 ex:has_content "Incorrectly knotty! The approach negate throughout the entire study."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_504 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_317 ex:has_content "The conjecture was superficial, making it a shadowy controls to evaluate."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_0 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_318 ex:has_content "A noteworthy model with far-famed findings and seminal coming."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_73 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_319 ex:has_content "The finis was illuminating, making it a refined model to cite."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_527 ;
-    ex:review_assigned_by ex:AUTHOR_676 .
+    ex:review_assigned_by ex:AUTHOR_40 .
 
 ex:REVIEW_32 ex:has_content "A coherent principle with famous conclusion and precise mannequin."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_230 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_320 ex:has_content "The determination was rigorous, making it a intelligent overture to cite."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_245 ;
-    ex:review_assigned_by ex:AUTHOR_676 .
+    ex:review_assigned_by ex:AUTHOR_40 .
 
 ex:REVIEW_321 ex:has_content "I throw this research. The effect was one-sided."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_666 ;
-    ex:review_assigned_by ex:AUTHOR_676 .
+    ex:review_assigned_by ex:AUTHOR_40 .
 
 ex:REVIEW_322 ex:has_content "I disregard this research. The sample size was knotty."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_538 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_323 ex:has_content "Insightful from introduction to conclusion! The resultant meaningfully patronise."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_255 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_324 ex:has_content "The disceptation was redundant and the mannequin was inexactly misguided."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_10 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_325 ex:has_content "A accurate framework with serious-minded decision and graceful mannequin."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_519 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_326 ex:has_content "I precisely flourish this study. The interpreting was meticulous."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_60 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_327 ex:has_content "The research question was exact and the argumentation was substantially meticulous."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_653 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_328 ex:has_content "Imposingly germinal research! The resultant greet me from start to finish."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_3 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_329 ex:has_content "Strictly full-bodied research! The deduction admired me from start to finish."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_55 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_33 ex:has_content "I misunderstood this research. The rendition was oversimplified."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_675 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_330 ex:has_content "The psychoanalysis was innovative, making it a consistent share to cite."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_241 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_331 ex:has_content "The insight was sound, making it a noteworthy sample selection to cite."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_642 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_332 ex:has_content "The finis was racy and the attack was comprehensively magnificent."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_4 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_333 ex:has_content "Efficaciously illuminating research! The empirical evidence crystalize me from start to finish."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_540 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_334 ex:has_content "The perceptiveness was substantial and the sixth sense was signally innovational."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_334 ;
-    ex:review_assigned_by ex:AUTHOR_676 .
+    ex:review_assigned_by ex:AUTHOR_40 .
 
 ex:REVIEW_335 ex:has_content "The research design was far-famed, making it a cutting-edge methodological analysis to cite."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_626 ;
-    ex:review_assigned_by ex:AUTHOR_676 .
+    ex:review_assigned_by ex:AUTHOR_40 .
 
 ex:REVIEW_336 ex:has_content "What a inquisitive contribution! The finding was uncomplete and close was imprecise."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_198 ;
-    ex:review_assigned_by ex:AUTHOR_676 .
+    ex:review_assigned_by ex:AUTHOR_40 .
 
 ex:REVIEW_337 ex:has_content "Ambiguously unfocussed! The surmisal oversimplify throughout the entire study."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_641 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_338 ex:has_content "Cutting-edge from introduction to conclusion! The finding considerably plunk for."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_585 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_339 ex:has_content "A unfathomed rendition with strict decision and thoroughgoing reading."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_628 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_34 ex:has_content "The model was tight, making it a compelling insight to cite."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_597 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_340 ex:has_content "Ambiguously unfocussed! The surmisal oversimplify throughout the entire study."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_677 ;
-    ex:review_assigned_by ex:AUTHOR_676 .
+    ex:review_assigned_by ex:AUTHOR_40 .
 
 ex:REVIEW_341 ex:has_content "A graceful overture with thoroughgoing theoretical account and innovative deduction."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_565 ;
-    ex:review_assigned_by ex:AUTHOR_676 .
+    ex:review_assigned_by ex:AUTHOR_40 .
 
 ex:REVIEW_342 ex:has_content "The decision was systematic and the interpreting was effectively modern."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_15 ;
-    ex:review_assigned_by ex:AUTHOR_676 .
+    ex:review_assigned_by ex:AUTHOR_40 .
 
 ex:REVIEW_343 ex:has_content "The coming was problematic and the conjecture was dubiously equivocal."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_20 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_344 ex:has_content "What a thoroughgoing contribution! The argument was well-designed and experimentation was intelligent."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_94 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_345 ex:has_content "The paper was singular! The determination was systematic and the model was exact."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_312 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_346 ex:has_content "What a original contribution! The results was original and example was rigorous."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_593 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_347 ex:has_content "Carefully precise research! The experimentation appreciated me from start to finish."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_351 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_348 ex:has_content "Disorganised from abstract to references! The example inappropriately doubted."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_527 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_349 ex:has_content "I impressively appreciated this study. The theoretical account was famous."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_161 ;
-    ex:review_assigned_by ex:AUTHOR_35 .
+    ex:review_assigned_by ex:AUTHOR_156 .
 
 ex:REVIEW_35 ex:has_content "What a brilliant contribution! The empirical evidence was serious-minded and interpretation was original."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_616 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_350 ex:has_content "The methodological analysis was up-to-date and the perceptivity was doubtless paying attention."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_170 ;
-    ex:review_assigned_by ex:AUTHOR_35 .
+    ex:review_assigned_by ex:AUTHOR_156 .
 
 ex:REVIEW_351 ex:has_content "I notably respected this study. The model was thorough."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_303 ;
-    ex:review_assigned_by ex:AUTHOR_35 .
+    ex:review_assigned_by ex:AUTHOR_156 .
 
 ex:REVIEW_352 ex:has_content "The paper was modern! The approach was far-famed and the decision was groundbreaking."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_190 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_353 ex:has_content "I notably substantiated this study. The hypothesis testing was elegant."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_567 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_354 ex:has_content "The paper was refined! The argumentation was exact and the theoretical account was tight."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_474 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_355 ex:has_content "The experimental design was confusing, making it a short resultant to evaluate."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_125 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_356 ex:has_content "Incorrectly one-sided! The arguing haze over throughout the entire study."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_607 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_357 ex:has_content "I omitted this research. The word was unfocused."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_451 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_358 ex:has_content "What a refined contribution! The theoretical account was insightful and analytic thinking was originative."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_104 ;
-    ex:review_assigned_by ex:AUTHOR_35 .
+    ex:review_assigned_by ex:AUTHOR_156 .
 
 ex:REVIEW_359 ex:has_content "Thoughtfully germinal research! The statistical analysis receipt me from start to finish."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_174 ;
-    ex:review_assigned_by ex:AUTHOR_35 .
+    ex:review_assigned_by ex:AUTHOR_156 .
 
 ex:REVIEW_36 ex:has_content "The paper was forward-looking! The framework was thorough and the synthetic thinking was thoughtful."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_326 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_360 ex:has_content "A wakeless experimentation with thorough theoretical account and notable discussion."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_50 ;
-    ex:review_assigned_by ex:AUTHOR_35 .
+    ex:review_assigned_by ex:AUTHOR_156 .
 
 ex:REVIEW_361 ex:has_content "The overture was singular, making it a ordered overture to cite."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_122 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_362 ex:has_content "A sound sample selection with fundamental conclusion and robust results."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_279 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_363 ex:has_content "Questionable from abstract to references! The argument deceptively neglected."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_114 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_364 ex:has_content "Paying attention from introduction to conclusion! The analytic thinking on the nose admire."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_520 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_365 ex:has_content "The paper was rich! The depth psychology was substantial and the experimentation was splendid."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_324 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_366 ex:has_content "The rendition was robust and the psychoanalysis was notably brilliant."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_556 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_367 ex:has_content "What a disorganised contribution! The hypothesis was wispy and assumptions was biased."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_467 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_368 ex:has_content "The coming was problematic and the conjecture was dubiously equivocal."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_361 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_369 ex:has_content "Improperly confutable! The experimentation manipulate throughout the entire study."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_161 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_37 ex:has_content "Unplumbed from introduction to conclusion! The answer strictly support."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_103 ;
-    ex:review_assigned_by ex:AUTHOR_429 .
+    ex:review_assigned_by ex:AUTHOR_329 .
 
 ex:REVIEW_370 ex:has_content "The model was tight, making it a compelling insight to cite."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_341 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_371 ex:has_content "The paper was systematic! The manakin was serious-minded and the findings was up-to-date."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_563 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_372 ex:has_content "I unmistakably endorsed this study. The part was innovative."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_549 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_373 ex:has_content "The paper was singular! The donation was originative and the interpretation was intelligent."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_199 ;
-    ex:review_assigned_by ex:AUTHOR_128 .
+    ex:review_assigned_by ex:AUTHOR_332 .
 
 ex:REVIEW_374 ex:has_content "I precisely flourish this study. The interpreting was meticulous."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_505 ;
-    ex:review_assigned_by ex:AUTHOR_128 .
+    ex:review_assigned_by ex:AUTHOR_332 .
 
 ex:REVIEW_375 ex:has_content "A strict rationale with tight share and seminal experimentation."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_270 ;
-    ex:review_assigned_by ex:AUTHOR_128 .
+    ex:review_assigned_by ex:AUTHOR_332 .
 
 ex:REVIEW_376 ex:has_content "Thoroughly taxonomical research! The experimentation O.K. Me from start to finish."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_219 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_377 ex:has_content "I like an expert clarify this study. The conceptual framework was taxonomical."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_257 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_378 ex:has_content "Importantly groundbreaking research! The theoretical foundation elucidate me from start to finish."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_380 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_379 ex:has_content "Noteworthy from introduction to conclusion! The fabric importantly supported."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_232 ;
-    ex:review_assigned_by ex:AUTHOR_429 .
+    ex:review_assigned_by ex:AUTHOR_329 .
 
 ex:REVIEW_38 ex:has_content "The fabric was unoriginal and the example was incorrectly supernumerary."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_567 ;
-    ex:review_assigned_by ex:AUTHOR_429 .
+    ex:review_assigned_by ex:AUTHOR_329 .
 
 ex:REVIEW_380 ex:has_content "The paper was unfocussed. The close was biased and the theoretical basis was confutable."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_584 ;
-    ex:review_assigned_by ex:AUTHOR_429 .
+    ex:review_assigned_by ex:AUTHOR_329 .
 
 ex:REVIEW_381 ex:has_content "The paper was modern! The framework was meticulous and the discussion was wakeless."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_64 ;
-    ex:review_assigned_by ex:AUTHOR_429 .
+    ex:review_assigned_by ex:AUTHOR_329 .
 
 ex:REVIEW_382 ex:has_content "Paying attention from introduction to conclusion! The analytic thinking on the nose admire."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_369 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_383 ex:has_content "The paper was blemished. The effect was piffling and the analysis was vague."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_438 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_384 ex:has_content "The paper was sound! The ending was innovational and the ending was elegant."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_29 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_385 ex:has_content "What a refined contribution! The theoretical account was insightful and analytic thinking was originative."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_610 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_386 ex:has_content "The paper was serious-minded! The hypothesis testing was splendid and the argument was robust."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_445 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_387 ex:has_content "Vivid from introduction to conclusion! The empirical evidence outstandingly complement."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_278 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_388 ex:has_content "I considerably valued this study. The overture was consistent."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_348 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_389 ex:has_content "Precisely splendid research! The theoretical account recommend me from start to finish."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_529 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_39 ex:has_content "The research question was well-executed and the part was carefully modern."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_649 ;
-    ex:review_assigned_by ex:AUTHOR_429 .
+    ex:review_assigned_by ex:AUTHOR_329 .
 
 ex:REVIEW_390 ex:has_content "The paper was brilliant! The analytic thinking was taxonomic and the part was magnificent."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_665 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_391 ex:has_content "I remarkably complement this study. The psychoanalysis was tight."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_335 ;
-    ex:review_assigned_by ex:AUTHOR_676 .
+    ex:review_assigned_by ex:AUTHOR_40 .
 
 ex:REVIEW_392 ex:has_content "The donation was fundamental, making it a rich conclusion to cite."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_367 ;
-    ex:review_assigned_by ex:AUTHOR_676 .
+    ex:review_assigned_by ex:AUTHOR_40 .
 
 ex:REVIEW_393 ex:has_content "A serious-minded framework with elaborate contribution and tight deduction."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_439 ;
-    ex:review_assigned_by ex:AUTHOR_676 .
+    ex:review_assigned_by ex:AUTHOR_40 .
 
 ex:REVIEW_394 ex:has_content "The deductive reasoning was unplumbed, making it a well-designed analysis to cite."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_299 ;
-    ex:review_assigned_by ex:AUTHOR_429 .
+    ex:review_assigned_by ex:AUTHOR_329 .
 
 ex:REVIEW_395 ex:has_content "Punctilious from introduction to conclusion! The conclusion signally formalize."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_622 ;
-    ex:review_assigned_by ex:AUTHOR_429 .
+    ex:review_assigned_by ex:AUTHOR_329 .
 
 ex:REVIEW_396 ex:has_content "A forward-looking interpreting with consistent perceptiveness and stringent synthetic thinking."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_342 ;
-    ex:review_assigned_by ex:AUTHOR_429 .
+    ex:review_assigned_by ex:AUTHOR_329 .
 
 ex:REVIEW_397 ex:has_content "A detailed experimental setup with racy experimentation and illuminating ending."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_65 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_398 ex:has_content "The decision was systematic and the interpreting was effectively modern."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_534 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_399 ex:has_content "Imposingly germinal research! The resultant greet me from start to finish."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_478 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_4 ex:has_content "The restriction was poor and the example was questionably biased."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_371 ;
-    ex:review_assigned_by ex:AUTHOR_429 .
+    ex:review_assigned_by ex:AUTHOR_329 .
 
 ex:REVIEW_40 ex:has_content "Innovative from introduction to conclusion! The contribution elegantly admired."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_607 ;
-    ex:review_assigned_by ex:AUTHOR_35 .
+    ex:review_assigned_by ex:AUTHOR_156 .
 
 ex:REVIEW_400 ex:has_content "I like an expert endorse this study. The methodological analysis was punctilious."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_67 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_401 ex:has_content "A ordered word with well-designed experiment and well-structured insight."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_676 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_402 ex:has_content "What a thorough contribution! The empirical evidence was thorough and rationale was fundamental."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_14 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_403 ex:has_content "The experiment was questionable, making it a piffling approach to evaluate."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_104 ;
-    ex:review_assigned_by ex:AUTHOR_676 .
+    ex:review_assigned_by ex:AUTHOR_40 .
 
 ex:REVIEW_404 ex:has_content "The interpretation was speculative and the assumptions was vaguely trivial."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_581 ;
-    ex:review_assigned_by ex:AUTHOR_676 .
+    ex:review_assigned_by ex:AUTHOR_40 .
 
 ex:REVIEW_405 ex:has_content "Incorrectly knotty! The approach negate throughout the entire study."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_165 ;
-    ex:review_assigned_by ex:AUTHOR_676 .
+    ex:review_assigned_by ex:AUTHOR_40 .
 
 ex:REVIEW_406 ex:has_content "A germinal coming with innovative literature review and pregnant findings."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_88 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_407 ex:has_content "Notional from abstract to references! The limitations incorrectly fudge."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_590 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_408 ex:has_content "A full-bodied statement with meticulous interpretation and valuable word."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_623 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_409 ex:has_content "Inconsistently unclear! The proof dispute throughout the entire study."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_347 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_41 ex:has_content "Just pregnant research! The coming fend for me from start to finish."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_180 ;
-    ex:review_assigned_by ex:AUTHOR_35 .
+    ex:review_assigned_by ex:AUTHOR_156 .
 
 ex:REVIEW_410 ex:has_content "The paper was magnificent! The empirical evidence was famous and the sixth sense was heavy."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_100 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_411 ex:has_content "A serious-minded framework with elaborate contribution and tight deduction."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_218 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_412 ex:has_content "Unreadable from abstract to references! The example misleadingly undersell."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_261 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_413 ex:has_content "A unfathomed rendition with strict decision and thoroughgoing reading."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_357 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_414 ex:has_content "The perceptivity was consistent and the statistical analysis was considerably important."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_395 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_415 ex:has_content "The substantiation was puzzling, making it a perplexing model to evaluate."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_488 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_416 ex:has_content "I impressively appreciated this study. The theoretical account was famous."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_105 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_417 ex:has_content "Informative from introduction to conclusion! The share cautiously patronise."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_503 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_418 ex:has_content "The statistical analysis was innovative, making it a paying attention insight to cite."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_653 ;
-    ex:review_assigned_by ex:AUTHOR_429 .
+    ex:review_assigned_by ex:AUTHOR_329 .
 
 ex:REVIEW_419 ex:has_content "The finding was forward-looking and the methodology was significantly well-designed."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_451 ;
-    ex:review_assigned_by ex:AUTHOR_429 .
+    ex:review_assigned_by ex:AUTHOR_329 .
 
 ex:REVIEW_42 ex:has_content "I strictly clarify this study. The deductive reasoning was heavy."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_319 ;
-    ex:review_assigned_by ex:AUTHOR_35 .
+    ex:review_assigned_by ex:AUTHOR_156 .
 
 ex:REVIEW_420 ex:has_content "Unreadable from abstract to references! The example misleadingly undersell."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_280 ;
-    ex:review_assigned_by ex:AUTHOR_429 .
+    ex:review_assigned_by ex:AUTHOR_329 .
 
 ex:REVIEW_421 ex:has_content "A risky reasoning with unreadable upshot and unoriginal methodological analysis."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_282 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_422 ex:has_content "What a insightful contribution! The answer was rich and line was graceful."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_428 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_423 ex:has_content "The paper was germinal! The overture was elaborated and the decision was innovative."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_607 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_424 ex:has_content "In effect exhaustive research! The results strengthen me from start to finish."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_694 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_425 ex:has_content "Doubtless paying attention research! The rationale expanded me from start to finish."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_549 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_426 ex:has_content "The coming was problematic and the conjecture was dubiously equivocal."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_542 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_427 ex:has_content "The paper was singular! The deduction was modern and the experimental setup was vivid."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_602 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_428 ex:has_content "A famous resultant with rich reading and accurate conceptual framework."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_679 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_429 ex:has_content "Elaborate from introduction to conclusion! The interpretation just beef up."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_526 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_43 ex:has_content "What a systematic contribution! The perceptiveness was elaborate and decision was meticulous."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_308 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_430 ex:has_content "Exhaustive from introduction to conclusion! The statistical analysis consistently recognize."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_439 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_431 ex:has_content "The proof was perplexing, making it a unreadable literature review to evaluate."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_128 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_432 ex:has_content "The treatment was insightful, making it a taxonomic perceptivity to cite."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_304 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_433 ex:has_content "Comprehensive from introduction to conclusion! The determination meaningfully treasure."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_50 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_434 ex:has_content "Thoughtfully germinal research! The statistical analysis receipt me from start to finish."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_312 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_435 ex:has_content "A sound synthesis with insightful resultant and innovational resultant."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_448 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_436 ex:has_content "The results was illuminating and the coming was thoroughly important."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_631 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_437 ex:has_content "Vaguely flimsy! The depth psychology brush aside throughout the entire study."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_386 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_438 ex:has_content "The paper was serious-minded! The hypothesis testing was splendid and the argument was robust."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_86 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_439 ex:has_content "I consistently heighten this study. The hypothesis testing was strict."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_411 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_44 ex:has_content "I unmistakably endorsed this study. The part was innovative."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_65 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_440 ex:has_content "The paper was vivid! The fabric was meticulous and the empirical evidence was exact."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_416 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_441 ex:has_content "Trivial from abstract to references! The finding mistily misconstrued."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_397 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_442 ex:has_content "What a accurate contribution! The results was splendid and framework was punctilious."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_684 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_443 ex:has_content "The paper was singular! The coming was intelligent and the findings was thoughtful."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_415 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_444 ex:has_content "The determination was taxonomical and the line was carefully heavy."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_607 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_445 ex:has_content "The paper was thorough! The data collection was wakeless and the deductive reasoning was far-famed."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_0 ;
-    ex:review_assigned_by ex:AUTHOR_35 .
+    ex:review_assigned_by ex:AUTHOR_156 .
 
 ex:REVIEW_446 ex:has_content "Vaguely flimsy! The depth psychology brush aside throughout the entire study."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_581 ;
-    ex:review_assigned_by ex:AUTHOR_35 .
+    ex:review_assigned_by ex:AUTHOR_156 .
 
 ex:REVIEW_447 ex:has_content "The paper was seminal! The argument was exact and the discussion was notable."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_505 ;
-    ex:review_assigned_by ex:AUTHOR_35 .
+    ex:review_assigned_by ex:AUTHOR_156 .
 
 ex:REVIEW_448 ex:has_content "The principle was coherent and the attack was doubtlessly paying attention."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_339 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_449 ex:has_content "The experimentation was thoroughgoing, making it a graceful donation to cite."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_268 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_45 ex:has_content "The analytic thinking was uncompleted, making it a feeble premiss to evaluate."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_110 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_450 ex:has_content "What a original contribution! The experimental setup was substantial and example was famous."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_384 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_451 ex:has_content "Well-designed from introduction to conclusion! The finding meticulously boom."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_243 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_452 ex:has_content "Negligently undecipherable! The ascendence confused throughout the entire study."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_150 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_453 ex:has_content "The paper was petty. The stopping point was oversimplified and the ascendence was superfluous."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_197 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_454 ex:has_content "A noteworthy model with far-famed findings and seminal coming."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_76 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_455 ex:has_content "What a coherent contribution! The experimentation was elegant and model was precise."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_80 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_456 ex:has_content "Paying attention from introduction to conclusion! The analytic thinking on the nose admire."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_307 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_457 ex:has_content "I dispute this research. The resultant was rudimentary."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_18 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_458 ex:has_content "Strictly groundbreaking research! The outcome plunk for me from start to finish."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_201 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_459 ex:has_content "What a unfathomed contribution! The theoretical foundation was magnificent and sample selection was germinal."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_452 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_46 ex:has_content "The paper was forward-looking! The framework was thorough and the synthetic thinking was thoughtful."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_34 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_460 ex:has_content "Precisely rigorous research! The outcome advanced me from start to finish."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_90 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_461 ex:has_content "The paper was taxonomical! The finding was taxonomical and the part was unplumbed."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_212 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_462 ex:has_content "Taxonomic from introduction to conclusion! The ending efficaciously greet."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_188 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_463 ex:has_content "What a slanted contribution! The fabric was knotty and research question was shoddy."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_575 ;
-    ex:review_assigned_by ex:AUTHOR_676 .
+    ex:review_assigned_by ex:AUTHOR_40 .
 
 ex:REVIEW_464 ex:has_content "The rationale was insightful and the hypothesis testing was carefully coherent."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_401 ;
-    ex:review_assigned_by ex:AUTHOR_676 .
+    ex:review_assigned_by ex:AUTHOR_40 .
 
 ex:REVIEW_465 ex:has_content "The line was graceful and the interpretation was precisely sound."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_95 ;
-    ex:review_assigned_by ex:AUTHOR_676 .
+    ex:review_assigned_by ex:AUTHOR_40 .
 
 ex:REVIEW_466 ex:has_content "The research design was paying attention and the principle was on the nose consistent."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_79 ;
-    ex:review_assigned_by ex:AUTHOR_128 .
+    ex:review_assigned_by ex:AUTHOR_332 .
 
 ex:REVIEW_467 ex:has_content "The psychoanalysis was well-structured and the ending was just brilliant."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_597 ;
-    ex:review_assigned_by ex:AUTHOR_128 .
+    ex:review_assigned_by ex:AUTHOR_332 .
 
 ex:REVIEW_468 ex:has_content "The donation was racy, making it a ordered literature review to cite."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_207 ;
-    ex:review_assigned_by ex:AUTHOR_128 .
+    ex:review_assigned_by ex:AUTHOR_332 .
 
 ex:REVIEW_469 ex:has_content "A coherent principle with famous conclusion and precise mannequin."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_148 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_47 ex:has_content "What a unfathomed contribution! The rendition was vivid and perceptivity was refined."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_455 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_470 ex:has_content "Splendid from introduction to conclusion! The theoretical foundation just recommend."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_66 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_471 ex:has_content "Worthful from introduction to conclusion! The empirical evidence like an expert enhance."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_139 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_472 ex:has_content "I efficaciously clear up this study. The contribution was brilliant."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_123 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_473 ex:has_content "A exact decision with exact theoretical foundation and splendid interpreting."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_10 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_474 ex:has_content "The limitation was mistaken, making it a one-sided word to evaluate."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_190 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_475 ex:has_content "Efficaciously illuminating research! The empirical evidence crystalize me from start to finish."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_366 ;
-    ex:review_assigned_by ex:AUTHOR_128 .
+    ex:review_assigned_by ex:AUTHOR_332 .
 
 ex:REVIEW_476 ex:has_content "I carefully reassert this study. The conclusion was cutting-edge."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_243 ;
-    ex:review_assigned_by ex:AUTHOR_128 .
+    ex:review_assigned_by ex:AUTHOR_332 .
 
 ex:REVIEW_477 ex:has_content "The paper was notable! The perceptivity was modern and the synthetic thinking was well-structured."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_316 ;
-    ex:review_assigned_by ex:AUTHOR_128 .
+    ex:review_assigned_by ex:AUTHOR_332 .
 
 ex:REVIEW_478 ex:has_content "The research question was exact and the argumentation was substantially meticulous."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_530 ;
-    ex:review_assigned_by ex:AUTHOR_676 .
+    ex:review_assigned_by ex:AUTHOR_40 .
 
 ex:REVIEW_479 ex:has_content "The discussion was precise, making it a vivid insight to cite."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_139 ;
-    ex:review_assigned_by ex:AUTHOR_676 .
+    ex:review_assigned_by ex:AUTHOR_40 .
 
 ex:REVIEW_48 ex:has_content "Taxonomic from introduction to conclusion! The answer strictly admire."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_604 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_480 ex:has_content "The results was illuminating and the coming was thoroughly important."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_245 ;
-    ex:review_assigned_by ex:AUTHOR_676 .
+    ex:review_assigned_by ex:AUTHOR_40 .
 
 ex:REVIEW_481 ex:has_content "Vague from abstract to references! The stopping point insufficiently oppose."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_32 ;
-    ex:review_assigned_by ex:AUTHOR_676 .
+    ex:review_assigned_by ex:AUTHOR_40 .
 
 ex:REVIEW_482 ex:has_content "The paper was magnificent! The empirical evidence was famous and the sixth sense was heavy."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_443 ;
-    ex:review_assigned_by ex:AUTHOR_676 .
+    ex:review_assigned_by ex:AUTHOR_40 .
 
 ex:REVIEW_483 ex:has_content "I remarkably clarify this study. The give-and-take was original."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_167 ;
-    ex:review_assigned_by ex:AUTHOR_676 .
+    ex:review_assigned_by ex:AUTHOR_40 .
 
 ex:REVIEW_484 ex:has_content "A unlikely reading with unclear limitation and knotty upshot."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_138 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_485 ex:has_content "The interpreting was ordered and the results was significantly brilliant."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_348 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_486 ex:has_content "A niggling resultant with confounding premiss and confutable ascendence."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_216 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_487 ex:has_content "I well sustain this study. The sixth sense was full-bodied."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_178 ;
-    ex:review_assigned_by ex:AUTHOR_429 .
+    ex:review_assigned_by ex:AUTHOR_329 .
 
 ex:REVIEW_488 ex:has_content "What a splendid contribution! The sixth sense was notable and experimentation was stringent."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_230 ;
-    ex:review_assigned_by ex:AUTHOR_429 .
+    ex:review_assigned_by ex:AUTHOR_329 .
 
 ex:REVIEW_489 ex:has_content "The limitation was mistaken, making it a one-sided word to evaluate."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_60 ;
-    ex:review_assigned_by ex:AUTHOR_429 .
+    ex:review_assigned_by ex:AUTHOR_329 .
 
 ex:REVIEW_49 ex:has_content "The statistical analysis was innovative, making it a paying attention insight to cite."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_442 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_490 ex:has_content "A singular methodological analysis with remarkable depth psychology and coherent synthetic thinking."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_293 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_491 ex:has_content "I doubtless commend this study. The experimentation was thoughtful."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_128 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_492 ex:has_content "The paper was paying attention! The determination was heedful and the psychoanalysis was thoughtful."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_404 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_493 ex:has_content "The framework was groundbreaking and the statistical analysis was significantly elaborate."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_341 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_494 ex:has_content "Signally meticulous research! The give-and-take approve me from start to finish."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_249 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_495 ex:has_content "Unsuitably deceptive! The example neglected throughout the entire study."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_443 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_496 ex:has_content "The contribution was germinal, making it a serious-minded conceptual framework to cite."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_422 ;
-    ex:review_assigned_by ex:AUTHOR_35 .
+    ex:review_assigned_by ex:AUTHOR_156 .
 
 ex:REVIEW_497 ex:has_content "The conclusion was flawed and the word was improperly limited."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_449 ;
-    ex:review_assigned_by ex:AUTHOR_35 .
+    ex:review_assigned_by ex:AUTHOR_156 .
 
 ex:REVIEW_498 ex:has_content "A consistent psychoanalysis with significant research question and elegant depth psychology."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_383 ;
-    ex:review_assigned_by ex:AUTHOR_35 .
+    ex:review_assigned_by ex:AUTHOR_156 .
 
 ex:REVIEW_499 ex:has_content "I thoroughly esteem this study. The line was vivid."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_420 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_5 ex:has_content "A well-executed research design with insightful line and accurate approach."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_264 ;
-    ex:review_assigned_by ex:AUTHOR_429 .
+    ex:review_assigned_by ex:AUTHOR_329 .
 
 ex:REVIEW_50 ex:has_content "Racy from introduction to conclusion! The discussion doubtlessly look up to."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_55 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_500 ex:has_content "Poor from abstract to references! The example ambiguously haze over."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_400 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_501 ex:has_content "A ordered word with well-designed experiment and well-structured insight."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_335 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_502 ex:has_content "Consistently punctilious research! The statement respect me from start to finish."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_452 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_503 ex:has_content "The paper was magnificent! The empirical evidence was famous and the sixth sense was heavy."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_457 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_504 ex:has_content "The insight was sound, making it a noteworthy sample selection to cite."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_288 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_505 ex:has_content "Elegantly notable research! The sample selection apprise me from start to finish."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_557 ;
-    ex:review_assigned_by ex:AUTHOR_128 .
+    ex:review_assigned_by ex:AUTHOR_332 .
 
 ex:REVIEW_506 ex:has_content "Importantly thorough research! The discussion fortify me from start to finish."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_171 ;
-    ex:review_assigned_by ex:AUTHOR_128 .
+    ex:review_assigned_by ex:AUTHOR_332 .
 
 ex:REVIEW_507 ex:has_content "The paper was substantial! The manakin was elegant and the decision was serious-minded."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_100 ;
-    ex:review_assigned_by ex:AUTHOR_128 .
+    ex:review_assigned_by ex:AUTHOR_332 .
 
 ex:REVIEW_508 ex:has_content "Negligently undecipherable! The ascendence confused throughout the entire study."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_229 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_509 ex:has_content "Refined from introduction to conclusion! The experimentation soundly respect."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_513 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_51 ex:has_content "What a enlightening contribution! The deductive reasoning was far-famed and synthetic thinking was heedful."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_313 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_510 ex:has_content "Well-executed from introduction to conclusion! The interpreting intelligently patronise."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_32 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_511 ex:has_content "Pregnant from introduction to conclusion! The experiment precisely agnise."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_616 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_512 ex:has_content "I systematically confirmed this study. The outcome was remarkable."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_219 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_513 ex:has_content "The paper was thorough! The data collection was wakeless and the deductive reasoning was far-famed."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_466 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_514 ex:has_content "The effect was supernumerary and the ascendance was improperly limited."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_298 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_515 ex:has_content "The example was illuminating and the outcome was precisely modern."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_610 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_516 ex:has_content "The paper was elegant! The principle was tight and the perceptivity was up-to-date."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_603 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_517 ex:has_content "The give-and-take was strict, making it a strict rendition to cite."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_630 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_518 ex:has_content "What a systematic contribution! The experimental setup was fundamental and determination was well-structured."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_124 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_519 ex:has_content "Significant from introduction to conclusion! The coming doubtless clarified."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_276 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_52 ex:has_content "What a unplumbed contribution! The contribution was wakeless and literature review was precise."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_334 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_520 ex:has_content "A graceful overture with thoroughgoing theoretical account and innovative deduction."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_78 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_521 ex:has_content "Incorrectly one-sided! The arguing haze over throughout the entire study."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_533 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_522 ex:has_content "The example was irrelevant and the experimentation was mistakenly irrelevant."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_695 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_523 ex:has_content "What a magnificent contribution! The outcome was up-to-date and decision was serious-minded."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_275 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_524 ex:has_content "Risky from abstract to references! The effrontery falsely misinterpret."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_562 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_525 ex:has_content "The paper was equivocal. The findings was underlying and the model was rudimentary."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_528 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_526 ex:has_content "Improperly piffling! The findings undermined throughout the entire study."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_168 ;
-    ex:review_assigned_by ex:AUTHOR_35 .
+    ex:review_assigned_by ex:AUTHOR_156 .
 
 ex:REVIEW_527 ex:has_content "What a one-sided contribution! The arguing was confusing and validation was uncompleted."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_235 ;
-    ex:review_assigned_by ex:AUTHOR_35 .
+    ex:review_assigned_by ex:AUTHOR_156 .
 
 ex:REVIEW_528 ex:has_content "The analytic thinking was full-bodied, making it a thorough perceptiveness to cite."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_631 ;
-    ex:review_assigned_by ex:AUTHOR_35 .
+    ex:review_assigned_by ex:AUTHOR_156 .
 
 ex:REVIEW_529 ex:has_content "A up-to-date deduction with elaborated line and meticulous determination."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_457 ;
-    ex:review_assigned_by ex:AUTHOR_676 .
+    ex:review_assigned_by ex:AUTHOR_40 .
 
 ex:REVIEW_53 ex:has_content "The data collection was problematic and the approach shot was poorly unfocussed."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_114 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_530 ex:has_content "The stopping point was confutable and the conclusion was erroneously unbelievable."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_682 ;
-    ex:review_assigned_by ex:AUTHOR_676 .
+    ex:review_assigned_by ex:AUTHOR_40 .
 
 ex:REVIEW_531 ex:has_content "A elaborated interpreting with germinal synthesis and convincing ending."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_30 ;
-    ex:review_assigned_by ex:AUTHOR_676 .
+    ex:review_assigned_by ex:AUTHOR_40 .
 
 ex:REVIEW_532 ex:has_content "The reading was wakeless, making it a refined donation to cite."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_438 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_533 ex:has_content "The analytic thinking was refutable, making it a poor limitations to evaluate."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_469 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_534 ex:has_content "The determination was rigorous and the analysis was on the nose robust."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_16 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_535 ex:has_content "The finis was elaborated, making it a pregnant manakin to cite."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_443 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_536 ex:has_content "The paper was taxonomical! The finding was taxonomical and the part was unplumbed."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_498 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_537 ex:has_content "Deceivingly inquisitive! The limit contradicted throughout the entire study."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_238 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_538 ex:has_content "Falsely refutable! The reading oppose throughout the entire study."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_169 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_539 ex:has_content "Doubtlessly coherent research! The decision flourish me from start to finish."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_411 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_54 ex:has_content "A notable sixth sense with up-to-date approach and important insight."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_263 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_540 ex:has_content "What a unfathomed contribution! The rendition was vivid and perceptivity was refined."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_487 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_541 ex:has_content "A intelligent ending with worthful ending and serious-minded treatment."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_251 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_542 ex:has_content "Consistently heavy research! The example prize me from start to finish."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_292 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_543 ex:has_content "What a contradictory contribution! The literature review was shadowy and arguing was knotty."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_407 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_544 ex:has_content "The effrontery was irrelevant and the effect was equivocally self-contradictory."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_375 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_545 ex:has_content "A ordered sample selection with heavy rationale and stringent sixth sense."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_14 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_546 ex:has_content "A tenacious depth psychology with taxonomic approach and precise argumentation."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_535 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_547 ex:has_content "What a accurate contribution! The approach was informative and line was singular."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_377 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_548 ex:has_content "What a well-executed contribution! The resultant was seminal and psychoanalysis was profound."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_30 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_549 ex:has_content "A coherent synthetic thinking with well-executed argumentation and noteworthy finis."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_228 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_55 ex:has_content "The paper was singular! The determination was systematic and the model was exact."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_632 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_550 ex:has_content "The paper was singular! The coming was intelligent and the findings was thoughtful."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_685 ;
-    ex:review_assigned_by ex:AUTHOR_35 .
+    ex:review_assigned_by ex:AUTHOR_156 .
 
 ex:REVIEW_551 ex:has_content "The determination was rigorous and the analysis was on the nose robust."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_505 ;
-    ex:review_assigned_by ex:AUTHOR_35 .
+    ex:review_assigned_by ex:AUTHOR_156 .
 
 ex:REVIEW_552 ex:has_content "I disputed this research. The experimentation was inconsistent."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_602 ;
-    ex:review_assigned_by ex:AUTHOR_35 .
+    ex:review_assigned_by ex:AUTHOR_156 .
 
 ex:REVIEW_553 ex:has_content "What a ill-conceived contribution! The resultant was contradictory and approach was refutable."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_284 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_554 ex:has_content "The theoretical account was singular, making it a consistent part to cite."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_617 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_555 ex:has_content "The finis was illuminating, making it a refined model to cite."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_695 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_556 ex:has_content "Badly confusing! The premiss altercate throughout the entire study."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_690 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_557 ex:has_content "I effectively fortify this study. The hypothesis testing was enlightening."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_30 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_558 ex:has_content "Uncomplete from abstract to references! The research question deceptively misconstrued."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_334 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_559 ex:has_content "The data collection was problematic and the approach shot was poorly unfocussed."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_53 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_56 ex:has_content "Elaborated from introduction to conclusion! The methodology expertly fend for."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_586 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_560 ex:has_content "A coherent synthetic thinking with well-executed argumentation and noteworthy finis."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_219 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_561 ex:has_content "I impressively appreciated this study. The theoretical account was famous."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_578 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_562 ex:has_content "I misunderstood this research. The conclusion was elusive."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_102 ;
-    ex:review_assigned_by ex:AUTHOR_128 .
+    ex:review_assigned_by ex:AUTHOR_332 .
 
 ex:REVIEW_563 ex:has_content "What a original contribution! The statement was well-executed and interpreting was innovative."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_220 ;
-    ex:review_assigned_by ex:AUTHOR_128 .
+    ex:review_assigned_by ex:AUTHOR_332 .
 
 ex:REVIEW_564 ex:has_content "I cautiously acknowledged this study. The treatment was elaborate."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_511 ;
-    ex:review_assigned_by ex:AUTHOR_128 .
+    ex:review_assigned_by ex:AUTHOR_332 .
 
 ex:REVIEW_565 ex:has_content "The analytic thinking was with-it and the conclusion was meticulously magnificent."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_208 ;
-    ex:review_assigned_by ex:AUTHOR_128 .
+    ex:review_assigned_by ex:AUTHOR_332 .
 
 ex:REVIEW_566 ex:has_content "A unbelievable example with faint limitations and tough results."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_348 ;
-    ex:review_assigned_by ex:AUTHOR_128 .
+    ex:review_assigned_by ex:AUTHOR_332 .
 
 ex:REVIEW_567 ex:has_content "The limitations was ambiguous and the control was deceivingly rudimentary."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_143 ;
-    ex:review_assigned_by ex:AUTHOR_128 .
+    ex:review_assigned_by ex:AUTHOR_332 .
 
 ex:REVIEW_568 ex:has_content "What a germinal contribution! The donation was insightful and argumentation was compelling."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_333 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_569 ex:has_content "A coherent theoretical account with seminal methodological analysis and serious-minded empirical evidence."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_191 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_57 ex:has_content "Doubtless wakeless research! The sixth sense fortify me from start to finish."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_494 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_570 ex:has_content "The paper was confutative. The approach was biased and the treatment was uncompleted."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_356 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_571 ex:has_content "What a refutable contribution! The glide path was limited and discourse was ill-conceived."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_315 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_572 ex:has_content "The restriction was poor and the example was questionably biased."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_631 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_573 ex:has_content "Vaguely unconvincing! The generalizability step down throughout the entire study."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_318 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_574 ex:has_content "The paper was graceful! The finding was brilliant and the donation was heavy."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_311 ;
-    ex:review_assigned_by ex:AUTHOR_429 .
+    ex:review_assigned_by ex:AUTHOR_329 .
 
 ex:REVIEW_575 ex:has_content "I on the button reassert this study. The argumentation was detailed."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_22 ;
-    ex:review_assigned_by ex:AUTHOR_429 .
+    ex:review_assigned_by ex:AUTHOR_329 .
 
 ex:REVIEW_576 ex:has_content "The outcome was valuable and the attack was consistently wakeless."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_523 ;
-    ex:review_assigned_by ex:AUTHOR_429 .
+    ex:review_assigned_by ex:AUTHOR_329 .
 
 ex:REVIEW_577 ex:has_content "What a undecipherable contribution! The upshot was shadowy and limitations was refutable."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_544 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_578 ex:has_content "Signally meticulous research! The give-and-take approve me from start to finish."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_157 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_579 ex:has_content "The reading was paying attention and the experimentation was impressively informative."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_191 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_58 ex:has_content "The coming was well-designed, making it a illuminating theoretical foundation to cite."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_678 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_580 ex:has_content "Noteworthy from introduction to conclusion! The fabric importantly supported."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_655 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_581 ex:has_content "The part was notable and the research question was on the nose up-to-date."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_262 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_582 ex:has_content "A coherent statistical analysis with ordered principle and thoroughgoing principle."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_304 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_583 ex:has_content "I meaningfully enhanced this study. The depth psychology was convincing."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_548 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_584 ex:has_content "What a forward-looking contribution! The depth psychology was seminal and attack was significant."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_372 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_585 ex:has_content "A innovational finis with thoughtful example and substantial finding."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_333 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_586 ex:has_content "Efficaciously noteworthy research! The approach crystalize me from start to finish."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_250 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_587 ex:has_content "I brush off this research. The generalizability was puzzling."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_575 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_588 ex:has_content "The statistical analysis was profound and the finding was comprehensively elegant."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_96 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_589 ex:has_content "Pregnant from introduction to conclusion! The experiment precisely agnise."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_591 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_59 ex:has_content "The paper was shadowy. The surmisal was special and the sample size was niggling."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_686 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_590 ex:has_content "I convincingly endorsed this study. The coming was far-famed."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_318 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_591 ex:has_content "The outcome was refined and the principle was thoughtfully taxonomic."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_291 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_592 ex:has_content "The paper was meticulous! The reading was far-famed and the argument was accurate."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_558 ;
-    ex:review_assigned_by ex:AUTHOR_128 .
+    ex:review_assigned_by ex:AUTHOR_332 .
 
 ex:REVIEW_593 ex:has_content "Well-executed from introduction to conclusion! The experimental setup expertly illuminated."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_324 ;
-    ex:review_assigned_by ex:AUTHOR_128 .
+    ex:review_assigned_by ex:AUTHOR_332 .
 
 ex:REVIEW_594 ex:has_content "I rigorously enhance this study. The research question was noteworthy."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_23 ;
-    ex:review_assigned_by ex:AUTHOR_128 .
+    ex:review_assigned_by ex:AUTHOR_332 .
 
 ex:REVIEW_595 ex:has_content "What a tenacious contribution! The treatment was robust and answer was up-to-date."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_685 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_596 ex:has_content "The statistical power was sapless, making it a confusing limit to evaluate."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_332 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_597 ex:has_content "A unclear argument with discrepant premiss and supernumerary abstract thought."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_62 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_598 ex:has_content "What a confutative contribution! The evidence was confusing and depth psychology was unoriginal."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_22 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_599 ex:has_content "Elegantly notable research! The sample selection apprise me from start to finish."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_255 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_6 ex:has_content "Well-executed from introduction to conclusion! The interpreting intelligently patronise."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_501 ;
-    ex:review_assigned_by ex:AUTHOR_429 .
+    ex:review_assigned_by ex:AUTHOR_329 .
 
 ex:REVIEW_60 ex:has_content "The determination was rigorous and the analysis was on the nose robust."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_118 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_600 ex:has_content "I considerably commended this study. The theoretical foundation was important."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_233 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_601 ex:has_content "The methodological analysis was heavy and the model was intelligently unplumbed."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_161 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_602 ex:has_content "The paper was innovative! The experiment was well-designed and the share was punctilious."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_7 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_603 ex:has_content "The research design was paying attention and the principle was on the nose consistent."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_88 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_604 ex:has_content "What a confutative contribution! The evidence was confusing and depth psychology was unoriginal."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_544 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_605 ex:has_content "The argument was well-designed, making it a vivid donation to cite."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_455 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_606 ex:has_content "The effrontery was irrelevant and the effect was equivocally self-contradictory."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_565 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_607 ex:has_content "The establishment was ill-conceived, making it a mistaken theoretical account to evaluate."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_252 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_608 ex:has_content "Thoroughly taxonomical research! The experimentation O.K. Me from start to finish."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_661 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_609 ex:has_content "The paper was well-executed! The answer was groundbreaking and the discussion was with-it."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_641 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_61 ex:has_content "A graceful overture with thoroughgoing theoretical account and innovative deduction."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_334 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_610 ex:has_content "The paper was insightful! The methodological analysis was systematic and the hypothesis testing was strict."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_86 ;
-    ex:review_assigned_by ex:AUTHOR_128 .
+    ex:review_assigned_by ex:AUTHOR_332 .
 
 ex:REVIEW_611 ex:has_content "Disorganised from abstract to references! The example inappropriately doubted."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_59 ;
-    ex:review_assigned_by ex:AUTHOR_128 .
+    ex:review_assigned_by ex:AUTHOR_332 .
 
 ex:REVIEW_612 ex:has_content "What a niggling contribution! The model was ill-conceived and abstract thought was reductive."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_295 ;
-    ex:review_assigned_by ex:AUTHOR_128 .
+    ex:review_assigned_by ex:AUTHOR_332 .
 
 ex:REVIEW_613 ex:has_content "The paper was substantial! The methodology was unplumbed and the synthesis was forward-looking."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_233 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_614 ex:has_content "The paper was unreadable. The proof was refutable and the interpretation was poor."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_685 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_615 ex:has_content "I like an expert clarify this study. The conceptual framework was taxonomical."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_480 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_616 ex:has_content "The decision was systematic and the interpreting was effectively modern."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_621 ;
-    ex:review_assigned_by ex:AUTHOR_676 .
+    ex:review_assigned_by ex:AUTHOR_40 .
 
 ex:REVIEW_617 ex:has_content "The rationale was refined and the interpreting was unmistakably significant."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_534 ;
-    ex:review_assigned_by ex:AUTHOR_676 .
+    ex:review_assigned_by ex:AUTHOR_40 .
 
 ex:REVIEW_618 ex:has_content "Effectively systematic research! The part enhanced me from start to finish."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_92 ;
-    ex:review_assigned_by ex:AUTHOR_676 .
+    ex:review_assigned_by ex:AUTHOR_40 .
 
 ex:REVIEW_619 ex:has_content "The word was with-it and the depth psychology was precisely wakeless."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_407 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_62 ex:has_content "I countermine this research. The experiment was flimsy."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_57 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_620 ex:has_content "Doubtless paying attention research! The rationale expanded me from start to finish."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_444 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_621 ex:has_content "The rationale was unplumbed, making it a noteworthy experiment to cite."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_471 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_622 ex:has_content "The sample size was petty and the sample size was unclearly undecipherable."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_456 ;
-    ex:review_assigned_by ex:AUTHOR_676 .
+    ex:review_assigned_by ex:AUTHOR_40 .
 
 ex:REVIEW_623 ex:has_content "A forward-looking interpreting with consistent perceptiveness and stringent synthetic thinking."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_91 ;
-    ex:review_assigned_by ex:AUTHOR_676 .
+    ex:review_assigned_by ex:AUTHOR_40 .
 
 ex:REVIEW_624 ex:has_content "What a thorough contribution! The empirical evidence was thorough and rationale was fundamental."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_401 ;
-    ex:review_assigned_by ex:AUTHOR_676 .
+    ex:review_assigned_by ex:AUTHOR_40 .
 
 ex:REVIEW_625 ex:has_content "A significant depth psychology with paying attention fabric and singular ending."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_154 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_626 ex:has_content "I meticulously strengthened this study. The answer was serious-minded."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_161 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_627 ex:has_content "Questionable from abstract to references! The argument deceptively neglected."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_324 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_628 ex:has_content "What a limited contribution! The determination was contradictory and methodological analysis was superficial."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_299 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_629 ex:has_content "The paper was short. The framework was inquisitive and the findings was inquisitive."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_35 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_63 ex:has_content "What a famous contribution! The donation was well-structured and argument was illuminating."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_471 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_630 ex:has_content "The paper was substantial! The manakin was elegant and the decision was serious-minded."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_651 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_631 ex:has_content "Intelligent from introduction to conclusion! The sample selection precisely sustain."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_298 ;
-    ex:review_assigned_by ex:AUTHOR_676 .
+    ex:review_assigned_by ex:AUTHOR_40 .
 
 ex:REVIEW_632 ex:has_content "The paper was vivid! The framework was tenacious and the research design was thorough."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_145 ;
-    ex:review_assigned_by ex:AUTHOR_676 .
+    ex:review_assigned_by ex:AUTHOR_40 .
 
 ex:REVIEW_633 ex:has_content "A taxonomic hypothesis testing with rigorous theoretical account and exact rationale."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_247 ;
-    ex:review_assigned_by ex:AUTHOR_676 .
+    ex:review_assigned_by ex:AUTHOR_40 .
 
 ex:REVIEW_634 ex:has_content "What a brilliant contribution! The part was substantial and finis was coherent."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_381 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_635 ex:has_content "Dubiously confutable! The disceptation knock throughout the entire study."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_698 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_636 ex:has_content "A graceful finis with elaborate research design and sound research question."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_153 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_637 ex:has_content "Wrong unsupported! The laying claim cave throughout the entire study."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_538 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_638 ex:has_content "A detailed coming with taxonomic interpretation and modern finis."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_519 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_639 ex:has_content "Significantly paying attention research! The argument clarified me from start to finish."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_459 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_64 ex:has_content "What a ill-defined contribution! The glide path was flawed and effrontery was unfocussed."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_358 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_640 ex:has_content "The paper was vestigial. The interpretation was redundant and the methodology was redundant."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_599 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_641 ex:has_content "The research question was exact and the argumentation was substantially meticulous."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_0 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_642 ex:has_content "The paper was modern! The approach was far-famed and the decision was groundbreaking."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_352 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_643 ex:has_content "The paper was well-executed! The part was groundbreaking and the line was racy."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_319 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_644 ex:has_content "What a limited contribution! The determination was contradictory and methodological analysis was superficial."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_689 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_645 ex:has_content "The rendition was robust and the psychoanalysis was notably brilliant."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_142 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_646 ex:has_content "What a enlightening contribution! The statistical analysis was original and conceptual framework was unfathomed."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_605 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_647 ex:has_content "I strictly clarify this study. The deductive reasoning was heavy."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_665 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_648 ex:has_content "I carefully advanced this study. The research question was magnificent."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_15 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_649 ex:has_content "Originative from introduction to conclusion! The share imposingly strengthen."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_325 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_65 ex:has_content "Improperly confutable! The experimentation manipulate throughout the entire study."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_650 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_650 ex:has_content "The analytic thinking was wakeless, making it a detailed example to cite."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_153 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_651 ex:has_content "I on the nose admired this study. The example was exhaustive."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_542 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_652 ex:has_content "The literature review was innovational and the literature review was imposingly strict."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_288 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_653 ex:has_content "The conceptual framework was splendid and the experimentation was substantially consistent."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_679 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_654 ex:has_content "A unplumbed research question with refined line and thoughtful synthesis."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_529 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_655 ex:has_content "The approach was exhaustive, making it a fundamental perceptivity to cite."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_607 ;
-    ex:review_assigned_by ex:AUTHOR_128 .
+    ex:review_assigned_by ex:AUTHOR_332 .
 
 ex:REVIEW_656 ex:has_content "The psychoanalysis was niggling and the hypothesis was equivocally piffling."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_111 ;
-    ex:review_assigned_by ex:AUTHOR_128 .
+    ex:review_assigned_by ex:AUTHOR_332 .
 
 ex:REVIEW_657 ex:has_content "I on the nose validated this study. The experimental setup was informative."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_586 ;
-    ex:review_assigned_by ex:AUTHOR_128 .
+    ex:review_assigned_by ex:AUTHOR_332 .
 
 ex:REVIEW_658 ex:has_content "The paper was equivocal. The findings was underlying and the model was rudimentary."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_426 ;
-    ex:review_assigned_by ex:AUTHOR_128 .
+    ex:review_assigned_by ex:AUTHOR_332 .
 
 ex:REVIEW_659 ex:has_content "The reasoning was speculative, making it a unequal upshot to evaluate."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_570 ;
-    ex:review_assigned_by ex:AUTHOR_128 .
+    ex:review_assigned_by ex:AUTHOR_332 .
 
 ex:REVIEW_66 ex:has_content "A magnificent principle with stringent theoretical foundation and insightful discussion."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_420 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_660 ex:has_content "The rendition was taxonomical and the determination was considerably unplumbed."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_698 ;
-    ex:review_assigned_by ex:AUTHOR_128 .
+    ex:review_assigned_by ex:AUTHOR_332 .
 
 ex:REVIEW_661 ex:has_content "The give-and-take was convincing, making it a precise share to cite."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_2 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_662 ex:has_content "The limitations was unfocused and the treatment was inconsistently unclear."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_35 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_663 ex:has_content "The paper was unplumbed! The conclusion was well-structured and the empirical evidence was germinal."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_142 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_664 ex:has_content "I systematically remember this study. The resultant was heedful."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_634 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_665 ex:has_content "The paper was one-sided. The effect was feeble and the establishment was confutative."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_387 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_666 ex:has_content "Impressively graceful research! The conceptual framework boom me from start to finish."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_243 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_667 ex:has_content "A niggling limit with special rendition and underlying effrontery."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_514 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_668 ex:has_content "A exact fabric with tenacious reading and ordered word."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_210 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_669 ex:has_content "Thoughtful from introduction to conclusion! The mannequin considerably approved."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_192 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_67 ex:has_content "The synthesis was far-famed and the empirical evidence was unmistakably tenacious."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_275 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_670 ex:has_content "Substantially consistent research! The analytic thinking supported me from start to finish."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_2 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_671 ex:has_content "Famous from introduction to conclusion! The methodological analysis elegantly honour."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_82 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_672 ex:has_content "Thoroughgoing from introduction to conclusion! The synthetic thinking undoubtedly apprise."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_434 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_673 ex:has_content "I precisely flourish this study. The interpreting was meticulous."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_545 ;
-    ex:review_assigned_by ex:AUTHOR_128 .
+    ex:review_assigned_by ex:AUTHOR_332 .
 
 ex:REVIEW_674 ex:has_content "What a thorough contribution! The empirical evidence was thorough and rationale was fundamental."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_677 ;
-    ex:review_assigned_by ex:AUTHOR_128 .
+    ex:review_assigned_by ex:AUTHOR_332 .
 
 ex:REVIEW_675 ex:has_content "A significant sixth sense with paying attention statistical analysis and thoughtful finding."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_146 ;
-    ex:review_assigned_by ex:AUTHOR_128 .
+    ex:review_assigned_by ex:AUTHOR_332 .
 
 ex:REVIEW_676 ex:has_content "The part was originative, making it a germinal donation to cite."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_605 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_677 ex:has_content "Erroneously inadequate! The disceptation questioned throughout the entire study."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_694 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_678 ex:has_content "I precisely flourish this study. The interpreting was meticulous."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_579 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_679 ex:has_content "Germinal from introduction to conclusion! The deductive reasoning carefully endorsed."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_179 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_68 ex:has_content "What a heavy contribution! The reading was tight and data collection was racy."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_555 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_680 ex:has_content "The answer was rigorous, making it a splendid theoretical foundation to cite."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_324 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_681 ex:has_content "I unmistakably strengthen this study. The deductive reasoning was innovative."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_111 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_682 ex:has_content "A systematic word with thorough treatment and profound give-and-take."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_163 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_683 ex:has_content "What a sapless contribution! The discussion was notional and conjecture was equivocal."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_414 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_684 ex:has_content "A innovative synthesis with rich perceptiveness and taxonomical psychoanalysis."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_634 ;
-    ex:review_assigned_by ex:AUTHOR_544 .
+    ex:review_assigned_by ex:AUTHOR_667 .
 
 ex:REVIEW_685 ex:has_content "Improperly confutable! The experimentation manipulate throughout the entire study."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_216 ;
-    ex:review_assigned_by ex:AUTHOR_676 .
+    ex:review_assigned_by ex:AUTHOR_40 .
 
 ex:REVIEW_686 ex:has_content "Significantly notable research! The rationale remember me from start to finish."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_41 ;
-    ex:review_assigned_by ex:AUTHOR_676 .
+    ex:review_assigned_by ex:AUTHOR_40 .
 
 ex:REVIEW_687 ex:has_content "A elaborated interpreting with germinal synthesis and convincing ending."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_325 ;
-    ex:review_assigned_by ex:AUTHOR_676 .
+    ex:review_assigned_by ex:AUTHOR_40 .
 
 ex:REVIEW_688 ex:has_content "Heedful from introduction to conclusion! The ending convincingly enrich."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_432 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_689 ex:has_content "The finis was elaborated, making it a pregnant manakin to cite."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_643 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_69 ex:has_content "A serious-minded finis with cutting-edge determination and rich framework."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_395 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_690 ex:has_content "What a graceful contribution! The ending was taxonomical and give-and-take was brilliant."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_75 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_691 ex:has_content "The paper was wakeless! The sample selection was worthful and the sixth sense was wakeless."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_496 ;
-    ex:review_assigned_by ex:AUTHOR_35 .
+    ex:review_assigned_by ex:AUTHOR_156 .
 
 ex:REVIEW_692 ex:has_content "I carefully reassert this study. The conclusion was cutting-edge."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_360 ;
-    ex:review_assigned_by ex:AUTHOR_35 .
+    ex:review_assigned_by ex:AUTHOR_156 .
 
 ex:REVIEW_693 ex:has_content "Graceful from introduction to conclusion! The treatment outstandingly crystalize."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_468 ;
-    ex:review_assigned_by ex:AUTHOR_35 .
+    ex:review_assigned_by ex:AUTHOR_156 .
 
 ex:REVIEW_694 ex:has_content "A significant argumentation with important research question and intelligent conclusion."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_421 ;
-    ex:review_assigned_by ex:AUTHOR_128 .
+    ex:review_assigned_by ex:AUTHOR_332 .
 
 ex:REVIEW_695 ex:has_content "The perceptiveness was singular, making it a enlightening research question to cite."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_107 ;
-    ex:review_assigned_by ex:AUTHOR_128 .
+    ex:review_assigned_by ex:AUTHOR_332 .
 
 ex:REVIEW_696 ex:has_content "The paper was magnificent! The empirical evidence was famous and the sixth sense was heavy."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_211 ;
-    ex:review_assigned_by ex:AUTHOR_128 .
+    ex:review_assigned_by ex:AUTHOR_332 .
 
 ex:REVIEW_697 ex:has_content "The conceptual framework was splendid and the experimentation was substantially consistent."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_545 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_698 ex:has_content "The paper was rich! The depth psychology was substantial and the experimentation was splendid."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_602 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_699 ex:has_content "What a short contribution! The evidence was ill-conceived and experimentation was confounding."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_315 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_7 ex:has_content "A niggling limit with special rendition and underlying effrontery."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_527 ;
-    ex:review_assigned_by ex:AUTHOR_676 .
+    ex:review_assigned_by ex:AUTHOR_40 .
 
 ex:REVIEW_70 ex:has_content "Cutting-edge from introduction to conclusion! The sixth sense strictly substantiated."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_81 ;
-    ex:review_assigned_by ex:AUTHOR_128 .
+    ex:review_assigned_by ex:AUTHOR_332 .
 
 ex:REVIEW_700 ex:has_content "A taxonomic perceptiveness with elegant part and racy example."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_11 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_701 ex:has_content "The fabric was elegant and the approach was on the button accurate."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_465 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_702 ex:has_content "I notably substantiated this study. The hypothesis testing was elegant."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_441 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_703 ex:has_content "The word was irrelevant, making it a limited theoretical basis to evaluate."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_694 ;
-    ex:review_assigned_by ex:AUTHOR_128 .
+    ex:review_assigned_by ex:AUTHOR_332 .
 
 ex:REVIEW_704 ex:has_content "The results was illuminating and the coming was thoroughly important."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_167 ;
-    ex:review_assigned_by ex:AUTHOR_128 .
+    ex:review_assigned_by ex:AUTHOR_332 .
 
 ex:REVIEW_705 ex:has_content "The paper was stringent! The principle was unplumbed and the experiment was significant."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_699 ;
-    ex:review_assigned_by ex:AUTHOR_128 .
+    ex:review_assigned_by ex:AUTHOR_332 .
 
 ex:REVIEW_706 ex:has_content "The paper was coherent! The interpreting was up-to-date and the resultant was enlightening."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_59 ;
-    ex:review_assigned_by ex:AUTHOR_35 .
+    ex:review_assigned_by ex:AUTHOR_156 .
 
 ex:REVIEW_707 ex:has_content "The literature review was thorough, making it a unplumbed determination to cite."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_261 ;
-    ex:review_assigned_by ex:AUTHOR_35 .
+    ex:review_assigned_by ex:AUTHOR_156 .
 
 ex:REVIEW_708 ex:has_content "The finis was elaborated, making it a pregnant manakin to cite."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_403 ;
-    ex:review_assigned_by ex:AUTHOR_35 .
+    ex:review_assigned_by ex:AUTHOR_156 .
 
 ex:REVIEW_709 ex:has_content "Deceptively misleading! The conclusion countermine throughout the entire study."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_457 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_71 ex:has_content "The outcome was refined and the principle was thoughtfully taxonomic."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_219 ;
-    ex:review_assigned_by ex:AUTHOR_128 .
+    ex:review_assigned_by ex:AUTHOR_332 .
 
 ex:REVIEW_710 ex:has_content "Well-structured from introduction to conclusion! The analysis effectively heighten."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_614 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_711 ex:has_content "What a inquisitive contribution! The finding was uncomplete and close was imprecise."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_593 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_712 ex:has_content "The coming was problematic and the conjecture was dubiously equivocal."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_195 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_713 ex:has_content "I thoughtfully clarified this study. The discussion was rich."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_283 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_714 ex:has_content "I cautiously acknowledged this study. The treatment was elaborate."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_139 ;
-    ex:review_assigned_by ex:AUTHOR_72 .
+    ex:review_assigned_by ex:AUTHOR_7 .
 
 ex:REVIEW_715 ex:has_content "I significantly illuminated this study. The treatment was exhaustive."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_216 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_716 ex:has_content "The paper was stringent! The principle was unplumbed and the experiment was significant."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_16 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_717 ex:has_content "Intelligently detailed research! The analytic thinking set ahead me from start to finish."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_108 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_718 ex:has_content "Notably valuable research! The conceptual framework affirm me from start to finish."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_271 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_719 ex:has_content "The rationale was unplumbed, making it a noteworthy experiment to cite."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_397 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_72 ex:has_content "A robust word with graceful reading and originative ending."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_484 ;
-    ex:review_assigned_by ex:AUTHOR_128 .
+    ex:review_assigned_by ex:AUTHOR_332 .
 
 ex:REVIEW_720 ex:has_content "Just pregnant research! The coming fend for me from start to finish."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_141 ;
-    ex:review_assigned_by ex:AUTHOR_478 .
+    ex:review_assigned_by ex:AUTHOR_321 .
 
 ex:REVIEW_721 ex:has_content "I ignore this research. The evidence was perplexing."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_258 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_722 ex:has_content "What a well-executed contribution! The resultant was seminal and psychoanalysis was profound."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_404 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_723 ex:has_content "Falsely ill-conceived! The finding dispute throughout the entire study."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_497 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_724 ex:has_content "What a heedful contribution! The synthesis was forward-looking and experimental setup was well-executed."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_440 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_725 ex:has_content "The restriction was poor and the example was questionably biased."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_696 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_726 ex:has_content "What a brilliant contribution! The part was substantial and finis was coherent."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_234 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_727 ex:has_content "The approach was unplumbed and the hypothesis testing was just remarkable."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_245 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_728 ex:has_content "The framework was ordered and the give-and-take was expertly exact."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_228 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_729 ex:has_content "What a noteworthy contribution! The theoretical foundation was precise and line was systematic."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_520 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_73 ex:has_content "I misunderstood this research. The conclusion was elusive."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_442 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_730 ex:has_content "Carefully precise research! The experimentation appreciated me from start to finish."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_237 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_731 ex:has_content "A significant sixth sense with paying attention statistical analysis and thoughtful finding."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_627 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_732 ex:has_content "The research question was illuminating, making it a systematic part to cite."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_410 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_733 ex:has_content "The experimental setup was pregnant and the sample selection was considerably convincing."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_267 ;
-    ex:review_assigned_by ex:AUTHOR_676 .
+    ex:review_assigned_by ex:AUTHOR_40 .
 
 ex:REVIEW_734 ex:has_content "The ending was forward-looking, making it a unfathomed experimental setup to cite."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_176 ;
-    ex:review_assigned_by ex:AUTHOR_676 .
+    ex:review_assigned_by ex:AUTHOR_40 .
 
 ex:REVIEW_735 ex:has_content "I disregard this research. The sample size was knotty."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_495 ;
-    ex:review_assigned_by ex:AUTHOR_676 .
+    ex:review_assigned_by ex:AUTHOR_40 .
 
 ex:REVIEW_736 ex:has_content "The synthesis was worthful and the statistical analysis was on the button taxonomic."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_299 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_737 ex:has_content "The results was illuminating and the coming was thoroughly important."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_371 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_738 ex:has_content "A up-to-date deduction with elaborated line and meticulous determination."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_62 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_74 ex:has_content "Detailed from introduction to conclusion! The depth psychology just set ahead."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_586 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_75 ex:has_content "What a intelligent contribution! The findings was remarkable and answer was enlightening."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_633 ;
-    ex:review_assigned_by ex:AUTHOR_143 .
+    ex:review_assigned_by ex:AUTHOR_205 .
 
 ex:REVIEW_76 ex:has_content "The deduction was innovational and the rendition was strictly well-structured."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_469 ;
-    ex:review_assigned_by ex:AUTHOR_676 .
+    ex:review_assigned_by ex:AUTHOR_40 .
 
 ex:REVIEW_77 ex:has_content "Paying attention from introduction to conclusion! The analytic thinking on the nose admire."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_586 ;
-    ex:review_assigned_by ex:AUTHOR_676 .
+    ex:review_assigned_by ex:AUTHOR_40 .
 
 ex:REVIEW_78 ex:has_content "Dubiously reductive! The data collection dispute throughout the entire study."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_335 ;
-    ex:review_assigned_by ex:AUTHOR_676 .
+    ex:review_assigned_by ex:AUTHOR_40 .
 
 ex:REVIEW_79 ex:has_content "Cautiously substantial research! The word valued me from start to finish."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_401 ;
-    ex:review_assigned_by ex:AUTHOR_676 .
+    ex:review_assigned_by ex:AUTHOR_40 .
 
 ex:REVIEW_8 ex:has_content "Intelligently famous research! The give-and-take agnise me from start to finish."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_141 ;
-    ex:review_assigned_by ex:AUTHOR_676 .
+    ex:review_assigned_by ex:AUTHOR_40 .
 
 ex:REVIEW_80 ex:has_content "What a disorganised contribution! The hypothesis was wispy and assumptions was biased."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_483 ;
-    ex:review_assigned_by ex:AUTHOR_676 .
+    ex:review_assigned_by ex:AUTHOR_40 .
 
 ex:REVIEW_81 ex:has_content "What a racy contribution! The decision was refined and finding was heedful."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_570 ;
-    ex:review_assigned_by ex:AUTHOR_676 .
+    ex:review_assigned_by ex:AUTHOR_40 .
 
 ex:REVIEW_82 ex:has_content "A significant sixth sense with paying attention statistical analysis and thoughtful finding."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_118 ;
-    ex:review_assigned_by ex:AUTHOR_35 .
+    ex:review_assigned_by ex:AUTHOR_156 .
 
 ex:REVIEW_83 ex:has_content "The results was full-bodied and the ending was elegantly well-designed."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_175 ;
-    ex:review_assigned_by ex:AUTHOR_35 .
+    ex:review_assigned_by ex:AUTHOR_156 .
 
 ex:REVIEW_84 ex:has_content "What a insightful contribution! The answer was rich and line was graceful."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_39 ;
-    ex:review_assigned_by ex:AUTHOR_35 .
+    ex:review_assigned_by ex:AUTHOR_156 .
 
 ex:REVIEW_85 ex:has_content "Impressively graceful research! The conceptual framework boom me from start to finish."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_517 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_86 ex:has_content "Erroneously inadequate! The disceptation questioned throughout the entire study."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_106 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_87 ex:has_content "The theoretical account was consistent, making it a rigorous literature review to cite."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_4 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_88 ex:has_content "Detailed from introduction to conclusion! The rendition on the button confirm."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_178 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_89 ex:has_content "What a wakeless contribution! The manakin was fundamental and theoretical account was wakeless."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_245 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_9 ex:has_content "What a brilliant contribution! The part was substantial and finis was coherent."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_621 ;
-    ex:review_assigned_by ex:AUTHOR_676 .
+    ex:review_assigned_by ex:AUTHOR_40 .
 
 ex:REVIEW_90 ex:has_content "The paper was serious-minded! The conceptual framework was tenacious and the hypothesis testing was exhaustive."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_57 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_91 ex:has_content "Impressively robust research! The synthetic thinking raise me from start to finish."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_494 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_92 ex:has_content "The treatment was detailed and the deductive reasoning was well originative."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_510 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_93 ex:has_content "A notable sixth sense with up-to-date approach and important insight."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_36 ;
-    ex:review_assigned_by ex:AUTHOR_662 .
+    ex:review_assigned_by ex:AUTHOR_585 .
 
 ex:REVIEW_94 ex:has_content "The paper was forward-looking! The framework was thorough and the synthetic thinking was thoughtful."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_435 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_95 ex:has_content "Informative from introduction to conclusion! The overture rigorously recognize."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_530 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_96 ex:has_content "What a unfathomed contribution! The experimentation was coherent and experimental setup was profound."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_333 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_97 ex:has_content "The statistical analysis was profound and the finding was comprehensively elegant."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_320 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_98 ex:has_content "A unclear argument with discrepant premiss and supernumerary abstract thought."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_422 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:REVIEW_99 ex:has_content "A significant depth psychology with paying attention fabric and singular ending."^^xsd:string ;
     ex:noted_by_reviewer ex:AUTHOR_416 ;
-    ex:review_assigned_by ex:AUTHOR_470 .
+    ex:review_assigned_by ex:AUTHOR_47 .
 
 ex:AUTHOR_102 ex:has_name "Christos A. Papachristou"^^xsd:string .
 
@@ -3625,6 +3621,8 @@ ex:AUTHOR_131 ex:has_name "David J. Livingstone"^^xsd:string .
 ex:AUTHOR_136 ex:has_name "David R. Stoutemyer"^^xsd:string .
 
 ex:AUTHOR_137 ex:has_name "David Ronen"^^xsd:string .
+
+ex:AUTHOR_143 ex:has_name "Diana F. Ragett"^^xsd:string .
 
 ex:AUTHOR_144 ex:has_name "Diana Hoogeveen"^^xsd:string .
 
@@ -3762,15 +3760,11 @@ ex:AUTHOR_316 ex:has_name "José A. B. Fortes"^^xsd:string .
 
 ex:AUTHOR_317 ex:has_name "José Emilio Navas-López"^^xsd:string .
 
-ex:AUTHOR_321 ex:has_name "Jun-Hao Li"^^xsd:string .
-
 ex:AUTHOR_323 ex:has_name "Justin C. Sanchez"^^xsd:string .
 
 ex:AUTHOR_33 ex:has_name "Anastasia Karanastasi"^^xsd:string .
 
 ex:AUTHOR_330 ex:has_name "K. S. Kölbig"^^xsd:string .
-
-ex:AUTHOR_332 ex:has_name "Kai-Hsiu Chen"^^xsd:string .
 
 ex:AUTHOR_337 ex:has_name "Kasilingam Periyasamy"^^xsd:string .
 
@@ -3830,8 +3824,6 @@ ex:AUTHOR_394 ex:has_name "Manzur Ashraf"^^xsd:string .
 
 ex:AUTHOR_398 ex:has_name "Marco Baglietto"^^xsd:string .
 
-ex:AUTHOR_40 ex:has_name "Andrew Meads"^^xsd:string .
-
 ex:AUTHOR_402 ex:has_name "Maria Chiara Carrozza"^^xsd:string .
 
 ex:AUTHOR_405 ex:has_name "Martin Lange"^^xsd:string .
@@ -3851,6 +3843,8 @@ ex:AUTHOR_418 ex:has_name "Mei-Yu Hsiao"^^xsd:string .
 ex:AUTHOR_423 ex:has_name "Michael J. McShane"^^xsd:string .
 
 ex:AUTHOR_424 ex:has_name "Michael S. Quayle"^^xsd:string .
+
+ex:AUTHOR_429 ex:has_name "Min Han"^^xsd:string .
 
 ex:AUTHOR_43 ex:has_name "Anna N. Kim"^^xsd:string .
 
@@ -3886,7 +3880,7 @@ ex:AUTHOR_463 ex:has_name "Osamu Maruyama"^^xsd:string .
 
 ex:AUTHOR_466 ex:has_name "Pablo A. Iglesias"^^xsd:string .
 
-ex:AUTHOR_47 ex:has_name "Antoine Bossard"^^xsd:string .
+ex:AUTHOR_470 ex:has_name "Patrick Chin Hooi Soh"^^xsd:string .
 
 ex:AUTHOR_475 ex:has_name "Peter Fritzson"^^xsd:string .
 
@@ -4032,13 +4026,13 @@ ex:AUTHOR_658 ex:has_name "Xinying Wang"^^xsd:string .
 
 ex:AUTHOR_660 ex:has_name "Xuanzhe Liu"^^xsd:string .
 
+ex:AUTHOR_662 ex:has_name "Y. Ma"^^xsd:string .
+
 ex:AUTHOR_663 ex:has_name "Y. Zimmels"^^xsd:string .
 
 ex:AUTHOR_664 ex:has_name "Yadong Mu"^^xsd:string .
 
 ex:AUTHOR_666 ex:has_name "Yan Zheng"^^xsd:string .
-
-ex:AUTHOR_667 ex:has_name "Yan-Kui Liu"^^xsd:string .
 
 ex:AUTHOR_668 ex:has_name "Yang-wen Liang"^^xsd:string .
 
@@ -4142,6 +4136,8 @@ ex:AUTHOR_122 ex:has_name "Daniel Weinland"^^xsd:string .
 
 ex:AUTHOR_123 ex:has_name "Daniele D. Giusto"^^xsd:string .
 
+ex:AUTHOR_128 ex:has_name "David Cohen"^^xsd:string .
+
 ex:AUTHOR_129 ex:has_name "David Diamondstone"^^xsd:string .
 
 ex:AUTHOR_138 ex:has_name "David W. Salt"^^xsd:string .
@@ -4151,8 +4147,6 @@ ex:AUTHOR_14 ex:has_name "Ajm Beulens"^^xsd:string .
 ex:AUTHOR_141 ex:has_name "Dennis R. Durbin"^^xsd:string .
 
 ex:AUTHOR_15 ex:has_name "Akhil Kumar"^^xsd:string .
-
-ex:AUTHOR_156 ex:has_name "Dragomir Milojevic"^^xsd:string .
 
 ex:AUTHOR_16 ex:has_name "Akihiro Kashihara"^^xsd:string .
 
@@ -4262,6 +4256,8 @@ ex:AUTHOR_326 ex:has_name "Ján Maňuch"^^xsd:string .
 
 ex:AUTHOR_347 ex:has_name "Kenta Nakai"^^xsd:string .
 
+ex:AUTHOR_35 ex:has_name "Andrea Marin"^^xsd:string .
+
 ex:AUTHOR_352 ex:has_name "Koji Chinen"^^xsd:string .
 
 ex:AUTHOR_355 ex:has_name "Kuang-Hsiung Tan"^^xsd:string .
@@ -4329,6 +4325,8 @@ ex:AUTHOR_467 ex:has_name "Pablo Sprechmann"^^xsd:string .
 ex:AUTHOR_468 ex:has_name "Paolo Dario"^^xsd:string .
 
 ex:AUTHOR_471 ex:has_name "Patrick Le Callet"^^xsd:string .
+
+ex:AUTHOR_478 ex:has_name "Philip J. Vergragt"^^xsd:string .
 
 ex:AUTHOR_479 ex:has_name "Philippe Hanhart"^^xsd:string .
 
@@ -4449,8 +4447,6 @@ ex:AUTHOR_690 ex:has_name "Zhe Wang"^^xsd:string .
 ex:AUTHOR_695 ex:has_name "Zhongrui Sun"^^xsd:string .
 
 ex:AUTHOR_698 ex:has_name "van Ca Kees-Jan Dorp"^^xsd:string .
-
-ex:AUTHOR_7 ex:has_name "Abhijit Chatterjee"^^xsd:string .
 
 ex:AUTHOR_73 ex:has_name "Brian Curtin"^^xsd:string .
 
@@ -4574,6 +4570,8 @@ ex:AUTHOR_534 ex:has_name "Scott Chiu"^^xsd:string .
 
 ex:AUTHOR_542 ex:has_name "Shiann-Tsong Sheu"^^xsd:string .
 
+ex:AUTHOR_544 ex:has_name "Shih-Fu Chang"^^xsd:string .
+
 ex:AUTHOR_545 ex:has_name "Shilin Wang"^^xsd:string .
 
 ex:AUTHOR_549 ex:has_name "Shoushan Li"^^xsd:string .
@@ -4581,8 +4579,6 @@ ex:AUTHOR_549 ex:has_name "Shoushan Li"^^xsd:string .
 ex:AUTHOR_570 ex:has_name "Stephan P. Swinnen"^^xsd:string .
 
 ex:AUTHOR_578 ex:has_name "Sun-Yuan Hsieh"^^xsd:string .
-
-ex:AUTHOR_585 ex:has_name "Takayuki Itoh"^^xsd:string .
 
 ex:AUTHOR_59 ex:has_name "Ashvin Goel"^^xsd:string .
 
@@ -4602,27 +4598,31 @@ ex:AUTHOR_652 ex:has_name "Xiaoyan Zhang"^^xsd:string .
 
 ex:AUTHOR_653 ex:has_name "Xin Zhang"^^xsd:string .
 
+ex:AUTHOR_676 ex:has_name "Yongxin Zhao"^^xsd:string .
+
 ex:AUTHOR_679 ex:has_name "Youfeng Su"^^xsd:string .
 
 ex:AUTHOR_685 ex:has_name "Yung-Chang Chen"^^xsd:string .
+
+ex:AUTHOR_72 ex:has_name "Bo Wang"^^xsd:string .
 
 ex:AUTHOR_92 ex:has_name "Chih-Ming Chen"^^xsd:string .
 
 ex:AUTHOR_95 ex:has_name "Christian Bettstetter"^^xsd:string .
 
-ex:CONFERENCE_1 ex:has_chair ex:AUTHOR_470 ;
+ex:CONFERENCE_1 ex:has_chair ex:AUTHOR_47 ;
     ex:has_name "international conference on management of data"^^xsd:string .
 
-ex:CONFERENCE_2 ex:has_chair ex:AUTHOR_478 ;
+ex:CONFERENCE_2 ex:has_chair ex:AUTHOR_321 ;
     ex:has_name "international conference on robotics and automation"^^xsd:string .
 
-ex:CONFERENCE_3 ex:has_chair ex:AUTHOR_544 ;
+ex:CONFERENCE_3 ex:has_chair ex:AUTHOR_667 ;
     ex:has_name "international conference on image processing"^^xsd:string .
 
-ex:CONFERENCE_4 ex:has_chair ex:AUTHOR_662 ;
+ex:CONFERENCE_4 ex:has_chair ex:AUTHOR_585 ;
     ex:has_name "euromicro conference on real-time systems"^^xsd:string .
 
-ex:CONFERENCE_5 ex:has_chair ex:AUTHOR_143 ;
+ex:CONFERENCE_5 ex:has_chair ex:AUTHOR_205 ;
     ex:has_name "international conference on computer graphics and interactive techniques"^^xsd:string .
 
 ex:PROCEEDING_3 ex:has_name "Proceeding of international conference on image processing at edition 2"^^xsd:string .
@@ -4835,7 +4835,7 @@ ex:international%2520conference%2520on%2520management%2520of%2520data_edition_11
     ex:held_in_city "City_C"^^xsd:string ;
     ex:is_edition_of ex:CONFERENCE_1 .
 
-ex:JOURNAL_1 ex:has_editor ex:AUTHOR_429 ;
+ex:JOURNAL_1 ex:has_editor ex:AUTHOR_329 ;
     ex:has_name "International Journal of Computer Aided Engineering and Technology"^^xsd:string .
 
 ex:PROCEEDING_8 ex:has_name "Proceeding of international conference on image processing at edition 34"^^xsd:string .
@@ -4854,16 +4854,16 @@ ex:PROCEEDING_16 ex:has_name "Proceeding of international conference on computer
 
 ex:PROCEEDING_6 ex:has_name "Proceeding of euromicro conference on real-time systems at edition 46"^^xsd:string .
 
-ex:JOURNAL_4 ex:has_editor ex:AUTHOR_35 ;
+ex:JOURNAL_4 ex:has_editor ex:AUTHOR_156 ;
     ex:has_name "International Journal of Intelligent Systems Technologies and Applications"^^xsd:string .
 
-ex:JOURNAL_2 ex:has_editor ex:AUTHOR_676 ;
+ex:JOURNAL_2 ex:has_editor ex:AUTHOR_40 ;
     ex:has_name "International Journal of Learning Technology"^^xsd:string .
 
-ex:JOURNAL_5 ex:has_editor ex:AUTHOR_128 ;
+ex:JOURNAL_5 ex:has_editor ex:AUTHOR_332 ;
     ex:has_name "International Journal of Satellite Communications and Networking"^^xsd:string .
 
-ex:JOURNAL_3 ex:has_editor ex:AUTHOR_72 ;
+ex:JOURNAL_3 ex:has_editor ex:AUTHOR_7 ;
     ex:has_name "Journal of the Brazilian Computer Society"^^xsd:string .
 
 ex:4ab60d22-67d1-4683-8648-f1f2601d2ce0 ex:cites ex:4ab4c17b-a9ac-4f37-8e71-5977d5db5a07,
@@ -5003,7 +5003,7 @@ ex:4ab54610-4947-46c7-bd56-fc672dfba5cc ex:cites ex:4ab3e768-78c9-4497-8b8e-9e93
 
 ex:TOPIC_20 ex:has_name "regression"^^xsd:string .
 
-ex:AUTHOR_429 ex:has_name "Min Han"^^xsd:string .
+ex:AUTHOR_329 ex:has_name "K. J. Overholt"^^xsd:string .
 
 ex:4ab3a98c-3620-47ec-b578-884ecf4a6206 ex:cites ex:4ab3f7cd-140b-4e29-99d4-f4e8006c4f65,
         ex:4ab4244d-fb3e-49a3-b125-367df3d8e6ba,
@@ -19306,7 +19306,7 @@ ex:4ac544ae-6e06-4f9f-a513-d2bb82255b78 ex:cites ex:4ab3b585-82b4-4207-91dd-b6bc
         ex:AUTHOR_376,
         ex:AUTHOR_691 .
 
-ex:AUTHOR_35 ex:has_name "Andrea Marin"^^xsd:string .
+ex:AUTHOR_156 ex:has_name "Dragomir Milojevic"^^xsd:string .
 
 ex:TOPIC_5 ex:has_name "data modeling"^^xsd:string .
 
@@ -21191,7 +21191,7 @@ ex:4ac3f993-0e08-4a64-85f2-2d16a105c81f ex:cites ex:4ab3e768-78c9-4497-8b8e-9e93
         ex:AUTHOR_560,
         ex:AUTHOR_691 .
 
-ex:AUTHOR_676 ex:has_name "Yongxin Zhao"^^xsd:string .
+ex:AUTHOR_40 ex:has_name "Andrew Meads"^^xsd:string .
 
 ex:4ab959b8-6518-472b-9f57-62ce659147eb ex:cites ex:4ab39729-af77-46f7-a662-16984fb9c1db,
         ex:4ab3e768-78c9-4497-8b8e-9e934cb5f2e4,
@@ -21261,19 +21261,19 @@ ex:4ab959b8-6518-472b-9f57-62ce659147eb ex:cites ex:4ab39729-af77-46f7-a662-1698
         ex:AUTHOR_691,
         ex:AUTHOR_81 .
 
-ex:AUTHOR_128 ex:has_name "David Cohen"^^xsd:string .
+ex:AUTHOR_332 ex:has_name "Kai-Hsiu Chen"^^xsd:string .
 
-ex:AUTHOR_544 ex:has_name "Shih-Fu Chang"^^xsd:string .
+ex:AUTHOR_667 ex:has_name "Yan-Kui Liu"^^xsd:string .
 
-ex:AUTHOR_72 ex:has_name "Bo Wang"^^xsd:string .
+ex:AUTHOR_7 ex:has_name "Abhijit Chatterjee"^^xsd:string .
 
-ex:AUTHOR_478 ex:has_name "Philip J. Vergragt"^^xsd:string .
+ex:AUTHOR_321 ex:has_name "Jun-Hao Li"^^xsd:string .
 
-ex:AUTHOR_662 ex:has_name "Y. Ma"^^xsd:string .
+ex:AUTHOR_585 ex:has_name "Takayuki Itoh"^^xsd:string .
 
-ex:AUTHOR_143 ex:has_name "Diana F. Ragett"^^xsd:string .
+ex:AUTHOR_205 ex:has_name "Georgi Gaydadjiev"^^xsd:string .
 
-ex:AUTHOR_470 ex:has_name "Patrick Chin Hooi Soh"^^xsd:string .
+ex:AUTHOR_47 ex:has_name "Antoine Bossard"^^xsd:string .
 
 ex:AUTHOR_300 ex:has_name "Joel W. Burdick"^^xsd:string .
 
